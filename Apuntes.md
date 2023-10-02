@@ -6,10 +6,7 @@
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
-   
-## Indice
-
-
+ 
 ## UNIDAD 1
 Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes. 
 La entrada es información que se lee del exterior hacia la cpu.
