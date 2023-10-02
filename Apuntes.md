@@ -13,3 +13,4 @@ Hay lenguajes compilados y otros que son los lenguajes interpretados que no nece
 Los scripts son lenguajes que no necesitan ser compilados, se empiezan a ejecutar desde la primera orden o línea. (python, typescrit). 
 En JAVA el código objeto se le llama bytecode. 
 
+
