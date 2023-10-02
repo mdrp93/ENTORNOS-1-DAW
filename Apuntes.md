@@ -1,7 +1,15 @@
-# ENTORNOS-1-DAW
-## Table of Contents
-1. [Unidad 1](#Unidad_1)
-2. [Unidad 2](#Unidad_2)
+# Apuntes de Entornos de Desarrollo
+
+<p align="center">
+   <img width="850" height="450" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/entornos-de-desarrollo-2.jpg">
+                                                                                                                  
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+   
+## Indice
+
+
 ## UNIDAD 1
 Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes. 
 La entrada es información que se lee del exterior hacia la cpu.
