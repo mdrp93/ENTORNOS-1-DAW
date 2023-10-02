@@ -1,6 +1,6 @@
 # Apuntes de Entornos de Desarrollo
 
-![Image_1 Entornos de desarrollo](https://www.ekon.es/wp-content/uploads/2021/02/entornos-de-desarrollo-2.jpg)                                                                                                                         
+![Image_1 Entornos de desarrollo](https://mdrp93/ENTORNOS-1º-DAW/entornos-de-desarrollo.jpg)                                                                                                                      
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
