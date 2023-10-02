@@ -12,7 +12,8 @@
 </h4> :hammer: 
 
 - `Finalidad `: Creación y acceso a los resúmenes de la asignatura.
-## índice
+
+## Indice
 1. [Unidad 1](#Unidad_1)
 2. [Unidad 2](#Unidad_2)
 
