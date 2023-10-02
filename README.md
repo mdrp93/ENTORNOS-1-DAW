@@ -17,7 +17,7 @@
 
 ## Contenido del proyecto:
 1. [Unidad 1](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md#unidad-1)
-2. [Unidad 2](#Unidad_2)
+2. [Unidad 2](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md#unidad-2)
 
 ## Construido con 🛠️
 
