@@ -15,7 +15,7 @@
 
 - `Finalidad `: Creación y acceso a los resúmenes de la asignatura.
 
-## Indice
+## Contenido del proyecto:
 1. [Unidad 1](#Uniad_1)
 2. [Unidad 2](#Unidad_2)
 
