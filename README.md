@@ -1,6 +1,6 @@
 # Apuntes de Entornos de Desarrollo
 
-![Image_1 Entornos de desarrollo](https://mdrp93/ENTORNOS-1º-DAW/entornos-de-desarrollo.jpg)                                                                                                                      
+![Image_1 Entornos de desarrollo](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/entornos-de-desarrollo-2.jpg)                                                                                                                      
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
