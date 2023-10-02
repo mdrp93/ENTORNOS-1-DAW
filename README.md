@@ -16,7 +16,7 @@
 - `Finalidad `: Creación y acceso a los resúmenes de la asignatura.
 
 ## Contenido del proyecto:
-1. [Unidad 1](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md)
+1. [Unidad 1](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md#unidad-1)
 2. [Unidad 2](#Unidad_2)
 
 ## Construido con 🛠️
