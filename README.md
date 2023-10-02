@@ -12,6 +12,9 @@
 </h4> :hammer: 
 
 - `Finalidad `: Creación y acceso a los resúmenes de la asignatura.
+## índice
+1. [Unidad 1](#Unidad_1)
+2. [Unidad 2](#Unidad_2)
 
 ## Construido con 🛠️
 
@@ -25,5 +28,4 @@ En construcción.
 
 ## Autor ✒️
 * **Maria Diaz RP** - [María Díaz RP](https://github.com/mdrp93?tab=overview&from=2023-09-01&to=2023-09-30)
-*
 
