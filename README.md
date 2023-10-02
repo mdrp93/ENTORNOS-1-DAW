@@ -16,7 +16,7 @@
 - `Finalidad `: Creación y acceso a los resúmenes de la asignatura.
 
 ## Contenido del proyecto:
-1. [Unidad 1](#Uniad_1)
+1. [Unidad 1](docs/Apuntes.md)
 2. [Unidad 2](#Unidad_2)
 
 ## Construido con 🛠️
