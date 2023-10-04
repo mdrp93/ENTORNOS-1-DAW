@@ -3,7 +3,7 @@
 # Apuntes de Entornos de Desarrollo
 
 <p align="center">
-   <img width="850" height="450" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/entornos-de-desarrollo-2.jpg">
+   <img width="1000" height="450" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/entornos-de-desarrollo-2.jpg">
                                                                                                                   
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
@@ -18,23 +18,21 @@
 <a name="item1"></a>
 ## Unidad 1
 
-      Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes. 
-
-
 La entrada es información que se lee del exterior hacia la cpu.
 
 La salida es la información que se lee desde la cpu al exterior. 
 
 - **Código fuente:** es el código entendible por un ser humano para crear un programa. Permite modificar un programa de manera sencilla. 
 - **Código objeto:** es un archivo binario, no ejecutable, que se genera a partir del código fuente.
+- **Código ejecutable:** es un archivo que se puede ejecutar en el ordenador, y que previamente se han basado en el código fuente.
 
-      Comentario: En JAVA el código objeto se le llama bytecode. 
-
-- **Código ejecutable:** es un archivo que se puede ejecutar en el ordenador, y que previamente se han basado en el código fuente. 
-
+> Comentario: En JAVA el código objeto se le llama bytecode.
+  
 El que hace que un código se entienda en una máquina es el compilador. 
 Hay lenguajes compilados y otros que son los lenguajes interpretados que no necesitan ser compilados. 
 Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se empiezan a ejecutar desde la primera orden o línea. (python, typescrit). 
+
+> Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes.
 
 [Subir](#top)
  
