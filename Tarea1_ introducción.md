@@ -27,9 +27,7 @@ Podemos clasificar el software en los siguientes apartados:
 El hardware funciona gracias al software que tenga instalado, entre ambos hay una relación directa, y una parte importante de esa relación es el almacenamiento. A este respecto nos encontramos con diferentes relaciones. 
 
 Primero no encontramos con el **disco duro**: es el responsable de almacenar de manera permanente datos y archivos que se pueden ejecutar. Es decir, en él se guardan los archivos o datos que son necesarios, por ejemplo, para ejecutar un programa.
-<div><p align="left";> <img width="200" height="100" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/disco_duro.png"></div> 
-
-
-                                                                                     
+<div><p align="left"> <img width="200" height="100" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/disco_duro.png"></div> 
+                                                                                    
 [Subir](#top)
 
