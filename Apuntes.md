@@ -10,13 +10,14 @@
    </p>
 
 ## Índice de contenidos
-* [Unidad 1](#item1)
-* [Unidad 2](#item2)
-* [Unidad 3](#item3)
+* [Unidad 0](#item1)
+* [Unidad 1](#item2)
+* [Unidad 2](#item3)
+* [Unidad 3](#item4)
 * [Unidad 4](#item4)
 
 <a name="item1"></a>
-## Unidad 1
+## Unidad 0
 
 La entrada es información que se lee del exterior hacia la cpu.
 
@@ -37,7 +38,7 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 [Subir](#top)
  
 <a name="item2"></a>
-## Unidad 2
+## Unidad 1
 
 ### Ingeniería de software. 
 La ingeniería es el ingenio de crear un diseño. Principios y metodologías para desarrollar y mantener el software.
