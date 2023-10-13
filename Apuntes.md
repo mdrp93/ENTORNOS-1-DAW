@@ -34,9 +34,9 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 > Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes.
 
 ### Índice de tareas
-* [Tarea de introducción](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Tarea1_%20introducci%C3%B3n.md)
-* [Unidad 2](#item2)
-* [Unidad 3](#item3)
+* [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Tarea1_%20introducci%C3%B3n.md)
+* [Tarea 2: Ciclo de vida del software.]()
+* [Tarea 3: Ciclo de vida del software 2. Metodologías.] ( )
 
 [Subir](#top)
  
