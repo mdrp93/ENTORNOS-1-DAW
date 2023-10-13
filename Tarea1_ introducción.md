@@ -1,11 +1,10 @@
-º<a name="top"></a>
-
+<a name="top"></a>
+   
 # UNIDAD 1
 
 <a name="item1"></a>
 
 ## Tarea 1: INTRODUCCIÓN.
-
 
 ### 1. Haz una clasificación del software.
 
@@ -26,8 +25,21 @@ Podemos clasificar el software en los siguientes apartados:
 
 El hardware funciona gracias al software que tenga instalado, entre ambos hay una relación directa, y una parte importante de esa relación es el almacenamiento. A este respecto nos encontramos con diferentes relaciones. 
 
-Primero no encontramos con el **disco duro**: es el responsable de almacenar de manera permanente datos y archivos que se pueden ejecutar. Es decir, en él se guardan los archivos o datos que son necesarios, por ejemplo, para ejecutar un programa.
+Primero no encontramos con el **disco duro**: es el responsable de almacenar de manera permanente datos y archivos que se pueden ejecutar. Es decir, en él se guardan los archivos o datos que son necesarios, por ejemplo, 
+para ejecutar un programa.
 <div><p align="left"> <img width="200" height="100" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/disco_duro.png"></div> 
-                                                                                    
+
+Después nos encontramos con la **memoria RAM** (ramdom access memory): esta es una memoria a corto plazo en la cual se almacenan los códigos binarios correspondientes a los archivos ejecutables que se han guardado previamente en el disco duro.
+<div><p align="center"> <img width="200" height="100" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/memoria_ram.png"></div>  
+
+Aquí entra en juego la **CPU o UCP (Central Processing Unit)**, como su nombre indica es una unidad en la cual se procesan y se ponen en ejecución los datos o instrucciones de los archivos que están almacenados en la 
+memoria RAM. Dentro de la CPU podemos encontrar diferentes tipos de memoria, como son los registros y la memoria caché. También dentro de ella están los módulos, los cuales transportan la información a través de los diferentes hilos lo que le permite poder realizar diferentes tareas al mismo tiempo. 
+<div><p align="left"> <img width="200" height="100" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/microprocesador_img.png"></div> 
+
+Por último nos encontramos con los diferentes dispositivos de entrada y salida, ya que una vez procesados y puestos en ejecución esos datos van a los canales de salida. Y nuevamente los canales de entrada recogen nuevos datos que vuelven a almacenarse.
+<div><p align="left"> <img width="200" height="100" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/microprocesador_img.png"></div> 
+
+
+
 [Subir](#top)
 
