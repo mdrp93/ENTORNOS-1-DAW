@@ -17,6 +17,13 @@
 <a name="item1"></a>
 # Unidad 1
 
+## Índice unidad 1
+* [Conceptos básicos](#itemud1)
+* [Ingeniaria del software](#itemud2)
+* [Modelos de desarrollo](#itemud3)
+
+<a name="itemud1"></a>
+## Introducción: Conceptos básicos
 La entrada es información que se lee del exterior hacia la cpu.
 
 La salida es la información que se lee desde la cpu al exterior. 
@@ -33,13 +40,9 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 
 > Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes.
 
-### Índice de tareas
-* [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Tarea1_%20introducci%C3%B3n.md)
-* [Tarea 2: Ciclo de vida del software.]()
-* [Tarea 3: Ciclo de vida del software 2. Metodologías.] ( )
-
 [Subir](#top)
- 
+
+<a name="itemud2"></a>
 ## Ingeniería de software. 
 La ingeniería es el ingenio de crear un diseño. Principios y metodologías para desarrollar y mantener el software.
 Ahora se usa el término desarrollo de software.
@@ -79,13 +82,22 @@ Tipos de mantenimiento:
    * Perfectivo: se mejora la funcionalidad
    * Evolutivo: se añade funcionalidades nuevas.
    * Adaptativo: se adapta a nuevos entornos.
-   
+
+## Modelos de desarrollo de software.
 
 
 
+
+
+### Índice de tareas
+* [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Tarea1_%20introducci%C3%B3n.md)
+* [Tarea 2: Ciclo de vida del software.]()
+* [Tarea 3: Ciclo de vida del software 2. Metodologías.] ( )
 
 
 [Subir](#top)
  
 <a name="item2"></a>
-## Unidad 3
+## Unidad 2
+
+mmmmm
