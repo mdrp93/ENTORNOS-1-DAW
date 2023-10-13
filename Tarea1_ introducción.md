@@ -18,7 +18,7 @@ Podemos clasificar el software en los siguientes apartados:
 </p>
 
 <p align="center">
-   <img width="400" height="500" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/SOFTWARE.jpg">
+   <img width="500" height="650" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/SOFTWARE.jpg">
   
 
 ### 2. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
@@ -44,10 +44,13 @@ Por último nos encontramos con los diferentes dispositivos de entrada y salida,
 - **Código fuente**: El código fuente es un conjunto de instrucciones escritas en un lenguaje de programación que es legible para los humanos. Este código no es ejecutable por la máquina y debe ser traducido a un lenguaje binario.
 - **Código objeto**: El código objeto es el resultado de la traducción del código fuente a un código legible por la máquina (binario). Pero para poder ser ejecutado sin errores debe ser posteriormente compilado.
 - **Código ejecutable**: El código ejecutable es el conjunto de instrucciones finales, ya compiladas, que están listas para ser realizadas (ejecutadas) por la máquina. Este código generalmente se ejecuta para una plataforma determinada ya sea Windows, Mac OS, Linux, o cualquier otro sistema.
-
 <div><p align="center"> <img width="750" height="450" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Diagrama_fases_códigos.jpg"></div> 
 
-
+### 4. Explica la diferencia entre firmware y software.
+Para explicar la diferencia entre firmware y software debemos puntualizar que el firmware es un tipo de software. 
+El software (parte blanda por su traducción del inglés) es un conjunto de programas que hacen funcionar el hardware (parte dura) de un sistema informático. De una manera general el software es la parte intangible que comprende el conjunto de códigos del sistema para controlar los procesos y tareas que quiera llevar a cabo el usuario.
+Por otro lado el firmware como ya dijimos es un tipo de software que está  dentro del hardware, es el soporte lógico más básico que controla los circuitos electrónicos del dispositivo, es decir que lo maneja físicamente. Un ejemplo claro de firmware es el programa BIOS.  
+div><p align="center"> <img width="550" height="750" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/firmware_software.png"></div> 
 
 
 
