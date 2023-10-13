@@ -45,7 +45,7 @@ Por último nos encontramos con los diferentes dispositivos de entrada y salida,
 - **Código objeto**: El código objeto es el resultado de la traducción del código fuente a un código legible por la máquina (binario). Pero para poder ser ejecutado sin errores debe ser posteriormente compilado.
 - **Código ejecutable**: El código ejecutable es el conjunto de instrucciones finales, ya compiladas, que están listas para ser realizadas (ejecutadas) por la máquina. Este código generalmente se ejecuta para una plataforma determinada ya sea Windows, Mac OS, Linux, o cualquier otro sistema.
 
-<div><p align="left"> <img width="300" height="200" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/dispositivoss_entrada_salida.png"></div> 
+<div><p align="center"> <img width="750" height="450" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Diagrama_fases_códigos.jpg"></div> 
 
 
 
