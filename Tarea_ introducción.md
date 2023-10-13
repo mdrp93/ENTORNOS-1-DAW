@@ -1,9 +1,10 @@
 <a name="top"></a>
- 
-# Tarea 1: INTRODUCCIÓN.
+
+# UNIDAD 1
 
 <a name="item1"></a>
-## Unidad 1
+## Tarea 1: INTRODUCCIÓN.
+
 
 ### 1. Haz una clasificación del software.
 
@@ -15,15 +16,10 @@ Podemos clasificar el software en los siguientes apartados:
 - **Software de aplicación** que es el conjunto de programas que permiten al usuario realizar diferentes tareas.
 - **Software de desarrollo** que es aquel que permite crear y diseñar otros programas. Son la base para desarrollar nuevos sistemas.
 
-> Comentario: En JAVA el código objeto se le llama bytecode.
 
 <p align="center">
    <img width="1000" height="450" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/entornos-de-desarrollo-2.jpg">
                                                                                                                   
-<p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
- 
 [Subir](#top)
 
 
