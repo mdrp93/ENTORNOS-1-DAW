@@ -50,7 +50,7 @@ Por último nos encontramos con los diferentes dispositivos de entrada y salida,
 Para explicar la diferencia entre firmware y software debemos puntualizar que el firmware es un tipo de software. 
 El software (parte blanda por su traducción del inglés) es un conjunto de programas que hacen funcionar el hardware (parte dura) de un sistema informático. De una manera general el software es la parte intangible que comprende el conjunto de códigos del sistema para controlar los procesos y tareas que quiera llevar a cabo el usuario.
 Por otro lado el firmware como ya dijimos es un tipo de software que está  dentro del hardware, es el soporte lógico más básico que controla los circuitos electrónicos del dispositivo, es decir que lo maneja físicamente. Un ejemplo claro de firmware es el programa BIOS.  
-div><p align="center"> <img width="550" height="750" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/firmware_software.png"></div> 
+div><p align="center"> <img width="550" height="650" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/firmware_software.png"></div> 
 
 
 
