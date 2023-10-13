@@ -41,7 +41,7 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 
 > Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes.
 
-[Subir](#top)
+[Subir](#item1)
 
 <a name="itemud2"></a>
 ## Ingeniería de software. 
@@ -83,6 +83,8 @@ Tipos de mantenimiento:
    * Perfectivo: se mejora la funcionalidad
    * Evolutivo: se añade funcionalidades nuevas.
    * Adaptativo: se adapta a nuevos entornos.
+
+[Subir](#item1)
 
 <a name="itemud3"></a>
 ## Modelos de desarrollo de software.
