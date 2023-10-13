@@ -1,11 +1,11 @@
 <a name="top"></a>
  
-#Tarea 1: INTRODUCCIÓN.
+# Tarea 1: INTRODUCCIÓN.
 
 <a name="item1"></a>
-##Unidad 1
+## Unidad 1
 
-###1. Haz una clasificación del software.
+### 1. Haz una clasificación del software.
 
 El software es un conjunto de programas que controlan la actuación del hardware, digamos que es el punto de unión con el usuario final.
 
