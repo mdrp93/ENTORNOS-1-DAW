@@ -15,7 +15,7 @@
 * [Unidad 3](#item3)
 
 <a name="item1"></a>
-## Unidad 1
+# Unidad 1
 
 La entrada es información que se lee del exterior hacia la cpu.
 
@@ -33,14 +33,14 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 
 > Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes.
 
-## Índice de tareas
-* [Unidad 1](#item1)
+### Índice de tareas
+* [Tarea de introducción](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Tarea1_%20introducci%C3%B3n.md)
 * [Unidad 2](#item2)
 * [Unidad 3](#item3)
 
 [Subir](#top)
  
-### Ingeniería de software. 
+## Ingeniería de software. 
 La ingeniería es el ingenio de crear un diseño. Principios y metodologías para desarrollar y mantener el software.
 Ahora se usa el término desarrollo de software.
 
