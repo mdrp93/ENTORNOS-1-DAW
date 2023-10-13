@@ -25,6 +25,17 @@
 
 <a name="itemud1"></a>
 ## Introducción: Conceptos básicos
+
+Existen tres tipos de software: de sistema, de aplicación, y de desarrollo. 
+- En el **software de sistema** se encuentran el SO., los drivers o controladores de dispositivos (firmware).
+- En el **software de aplicación** encontramos suite ofimática, navegadores, editor de imagenes o texto...
+- Y en el **software de desarrollo** encontramos editores, compiladores, interpretes..etc
+
+En cuanto al hardware tenemos disco duro, memoria RAm, CPU, dispositivos de entrada y salida.
+- Los dispositivos de entrada y salida: recogen datos desde la entrada y muestran los resultados por la salida.
+- CPU: _ _Central processing Unit_ _
+
+
 La entrada es información que se lee del exterior hacia la cpu.
 
 La salida es la información que se lee desde la cpu al exterior. 
