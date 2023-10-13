@@ -18,9 +18,8 @@ Podemos clasificar el software en los siguientes apartados:
 
 
 <p align="center">
-   <img width="1000" height="450" src="(https://github.com/mdrp93/ENTORNOS-1-DAW/blob/cd3ba1b11292b70d97b26eaf0a6a8dc7b7d34dfd/Diagrama_fases_ciclovida.jpg)">
+   <img width="1000" height="450" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/entornos-de-desarrollo-2.jpg">
 
-   [https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Diagrama_fases_ciclovida.jpg]
    
    
                                                                                                        
