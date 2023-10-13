@@ -37,7 +37,7 @@ memoria RAM. Dentro de la CPU podemos encontrar diferentes tipos de memoria, com
 <div><p align="left"> <img width="300" height="200" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/microprocesador_img.png"></div> 
 
 Por último nos encontramos con los diferentes dispositivos de entrada y salida, ya que una vez procesados y puestos en ejecución esos datos van a los canales de salida. Y nuevamente los canales de entrada recogen nuevos datos que vuelven a almacenarse.
-<div><p align="left"> <img width="300" height="250" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/dispositivoss_entrada_salida.png"></div> 
+<div><p align="left"> <img width="300" height="200" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/dispositivoss_entrada_salida.png"></div> 
 
 
 
