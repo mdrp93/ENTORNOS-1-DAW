@@ -21,6 +21,9 @@ Podemos clasificar el software en los siguientes apartados:
    <img width="700" height="350" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Diagrama_fases_ciclovida.jpg">
   
 
+### 2. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
+
+El hardware funciona gracias al software que tenga instalado, entre ambos hay una relación directa, y una parte importante de esa relación es el almacenamiento. A este respecto nos encontramos con diferentes relaciones.
    
    
                                                                                                        
