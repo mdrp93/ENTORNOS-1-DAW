@@ -33,7 +33,7 @@ Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.
 
 En cuanto al hardware tenemos disco duro, memoria RAm, CPU, dispositivos de entrada y salida.
 - Los dispositivos de entrada y salida: recogen datos desde la entrada y muestran los resultados por la salida.
-- CPU: _ _Central processing Unit_ _
+- CPU: _Central processing Unit_
 
 
 La entrada es información que se lee del exterior hacia la cpu.
