@@ -33,12 +33,12 @@ Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.
 
 En cuanto al hardware tenemos disco duro, memoria RAm, CPU, dispositivos de entrada y salida.
 - Los dispositivos de entrada y salida: recogen datos desde la entrada y muestran los resultados por la salida.
-- CPU: _Central processing Unit_
+> La entrada es información que se lee del exterior hacia la cpu.<br>La salida es la información que se lee desde la cpu al exterior. 
+- Memoria RAM: almacena de manera temporal el código binario de los archivos ejecutables y de los datos que necesita.
+- CPU ó _Central processing Unit_: lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.
+- Disco duro: almacena de manera permanente los arcchivos ejecutables y los archivos de datos. 
 
 
-La entrada es información que se lee del exterior hacia la cpu.
-
-La salida es la información que se lee desde la cpu al exterior. 
 
 - **Código fuente:** es el código entendible por un ser humano para crear un programa. Permite modificar un programa de manera sencilla. 
 - **Código objeto:** es un archivo binario, no ejecutable, que se genera a partir del código fuente.
