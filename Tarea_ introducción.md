@@ -18,7 +18,7 @@ Podemos clasificar el software en los siguientes apartados:
 
 
 <p align="center">
-   <img width="700" height="350" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Diagrama_fases_ciclovida.jpg">
+   <img width="400" height="500" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/SOFTWARE.jpg">
   
 
 ### 2. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
