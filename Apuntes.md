@@ -19,12 +19,13 @@
 # Unidad 1
 
 ## Índice unidad 1
-* [Conceptos básicos](#itemud1)
-* [Ingeniaria del software](#itemud2)
+* [Introducción: Conceptos básicos](#itemud1)
+* [Ciclo de vida del software](#itemud2)
 * [Modelos de desarrollo](#itemud3)
+* [Lenguajes de programación](#itemud4)
 
 <a name="itemud1"></a>
-## Introducción: Conceptos básicos
+## 1 y 2 Introducción: Conceptos básicos
 
 Existen tres tipos de software: de sistema, de aplicación, y de desarrollo. 
 - En el **software de sistema** se encuentran el SO., los drivers o controladores de dispositivos (firmware).
@@ -98,7 +99,7 @@ Tipos de mantenimiento:
 [Subir](#item1)
 
 <a name="itemud3"></a>
-## Modelos de desarrollo de software.
+## 4. Modelos de desarrollo de software.
 
 
 
