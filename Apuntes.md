@@ -110,19 +110,51 @@ Tipos de mantenimiento:
 <a name="itemud4"></a>
 ## 5. Lenguajes de programación. 
 
-Obtención de código ejecutable. 
+###Obtención de código ejecutable. 
  - Compilar
  - Interpretar
 
-En los lenguajes compiladoos no generan código objeto.
+###Existen lenguajes:
+- Compilados.
+  En los lenguajes compiladoos no generan código objeto.
+  
+- Interpretados.
+
+###JAVA:
 
 El odigo fuente de JAVA se compila y se obtiene un código binario intermedio : bytecode. 
 Este bytecode es transparente al desarrollador independientemente del micro en el que se ejecute el código. 
 Se hacen cosas muy generales al ser para todos los microprocesadores. 
+Para poder ejecutar este bytecode necesitas tener instalada la máquina virtual propia para el microprocesador que corresponda. 
+El lenguaje de JAVA es un lenguaje orientado a objetos. 
 
+### Ventajas: 
+ - Es estructurado
+ - Orientado a objetos.
+ - muy esclable: es muy facil añadir nuevas funciones a las clases.
+ - Gran control sobre el.
 
+### Desventajas: 
+- No es tan eficiente al ser algo genérico o "universal" para todos. Se pierden matices.
 
+**Tipos de lenguajes:** 
+Según la forma en la que operan.
+- Declarativos.
+- Imperativos.
 
+**Tipos de lenguajes declarativos:**
+Normalmente son lenguajes interpretados. 
+o Lógicos: Utilizan reglas. Ej: Prolog
+o Funcionales: Utilizan funciones. Ej: Lisp, Haskell
+o Algebraicos: Utilizan sentencias. Ej: SQL
+
+**Tipos de lenguajes imperativos:**
+Los lenguajes orientados a objetos son también lenguajes estructurados.
+Muchos de estos lenguajes son compilados.
+
+o Orientados a objetos: Java
+o Multiparadigma: C++, Javascript
+o Estructurados: C
 
 ### Tareas de la unidad 1.
 * [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Tarea1_%20introducci%C3%B3n.md)
