@@ -110,7 +110,15 @@ Tipos de mantenimiento:
 <a name="itemud4"></a>
 ## 5. Lenguajes de programación. 
 
+Obtención de código ejecutable. 
+ - Compilar
+ - Interpretar
 
+En los lenguajes compiladoos no generan código objeto.
+
+El odigo fuente de JAVA se compila y se obtiene un código binario intermedio : bytecode. 
+Este bytecode es transparente al desarrollador independientemente del micro en el que se ejecute el código. 
+Se hacen cosas muy generales al ser para todos los microprocesadores. 
 
 
 
