@@ -55,7 +55,7 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 [Subir](#item1)
 
 <a name="itemud2"></a>
-## Ingeniería de software: ciclo de vida.
+## 3. Ciclo de vida del software. 
 La ingeniería es el ingenio de crear un diseño. Principios y metodologías para desarrollar y mantener el software.
 Ahora se usa el término desarrollo de software.
 
