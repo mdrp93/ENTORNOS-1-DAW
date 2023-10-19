@@ -48,7 +48,9 @@ En cuanto al hardware tenemos disco duro, memoria RAm, CPU, dispositivos de entr
 > Comentario: En JAVA el código objeto se le llama bytecode.
   
 El que hace que un código se entienda en una máquina es el compilador. 
+
 Hay lenguajes compilados y otros que son los lenguajes interpretados que no necesitan ser compilados. 
+
 Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se empiezan a ejecutar desde la primera orden o línea. (python, typescrit). 
 
 > Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes.
@@ -85,7 +87,7 @@ Se especifica la interrelación y funcionalidad de los elementos componentes.
    - Diseño detallado: de qué es y cómo va a ser cada bloque.
    - Diseño de datos: qué datos figuran en cada bloque, como es la estructura de datos que se van a usar en todos los bloques debe ser el mismo. 
    - Diseño de interfaz de usuario.
-   - 
+
 CODIFICACIÓN: en esta fase se escribe el código fuente de cada componente. 
 PRUEBAS: en esta fase se realizan pruebas para comprobar los errores que pueda tener el programa. 
 MANTENIMIENTO: Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.
@@ -115,8 +117,7 @@ Tipos de mantenimiento:
  - Interpretar
 
 ### Existen lenguajes:
-- Compilados.
-  En los lenguajes compiladoos no generan código objeto.
+- Compilados: En los lenguajes compiladoos no generan código objeto.
   
 - Interpretados.
 
@@ -144,12 +145,13 @@ El lenguaje de JAVA es un lenguaje orientado a objetos.
 
 **Tipos de lenguajes declarativos:**
 Normalmente son lenguajes interpretados. 
-o Lógicos: Utilizan reglas. Ej: Prolog
-o Funcionales: Utilizan funciones. Ej: Lisp, Haskell
-o Algebraicos: Utilizan sentencias. Ej: SQL
+- Lógicos: Utilizan reglas. Ej: Prolog
+- Funcionales: Utilizan funciones. Ej: Lisp, Haskell
+- Algebraicos: Utilizan sentencias. Ej: SQL
 
 **Tipos de lenguajes imperativos:**
 Los lenguajes orientados a objetos son también lenguajes estructurados.
+
 Muchos de estos lenguajes son compilados.
 - Orientados a objetos: Java
 - Multiparadigma: C++, Javascript
