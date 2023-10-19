@@ -122,7 +122,7 @@ Tipos de mantenimiento:
 
 ### JAVA:
 
-El odigo fuente de JAVA se compila y se obtiene un código binario intermedio : bytecode. 
+El odigo fuente de JAVA se compila y se obtiene un código binario intermedio : bytecode.
 Este bytecode es transparente al desarrollador independientemente del micro en el que se ejecute el código. 
 Se hacen cosas muy generales al ser para todos los microprocesadores. 
 Para poder ejecutar este bytecode necesitas tener instalada la máquina virtual propia para el microprocesador que corresponda. 
@@ -151,14 +151,14 @@ o Algebraicos: Utilizan sentencias. Ej: SQL
 **Tipos de lenguajes imperativos:**
 Los lenguajes orientados a objetos son también lenguajes estructurados.
 Muchos de estos lenguajes son compilados.
-o Orientados a objetos: Java
-o Multiparadigma: C++, Javascript
-o Estructurados: C
+- Orientados a objetos: Java
+- Multiparadigma: C++, Javascript
+- Estructurados: C
 
 **Tipos de lenguajes según el nivel de abstracción:**
-o Bajo nivel: ensamblador
-o Medio nivel: C
-o Alto nivel: C++, Java
+- Bajo nivel: ensamblador
+- Medio nivel: C
+- Alto nivel: C++, Java
 
 ### Evolucion. 
 - Código binario
