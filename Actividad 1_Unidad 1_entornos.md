@@ -21,6 +21,7 @@ Podemos clasificar el software en los siguientes apartados:
 <p align="center">
    <img width="500" height="650" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/SOFTWARE.jpg">
 
+[Subir](#top)
 
 ### 2. Describe la relación que existe entre los componentes hardware principales de un computador y el almacenamiento y ejecución del software.
 
@@ -39,6 +40,8 @@ memoria RAM. Dentro de la CPU podemos encontrar diferentes tipos de memoria, com
 
 Por último nos encontramos con los diferentes dispositivos de entrada y salida, ya que una vez procesados y puestos en ejecución esos datos van a los canales de salida. Y nuevamente los canales de entrada recogen nuevos datos que vuelven a almacenarse.
 <div><p align="left"> <img width="300" height="200" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/dispositivoss_entrada_salida.png"></div> 
+
+[Subir](#top)
 
 ### 3. Define los siguientes conceptos:
 
