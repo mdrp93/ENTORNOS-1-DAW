@@ -17,7 +17,7 @@ Podemos clasificar el software en los siguientes apartados:
 - **Software de desarrollo** que es aquel que permite crear y diseñar otros programas. Son la base para desarrollar nuevos sistemas.
 
 <p align="center">
-   <img width="500" height="650" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/SOFTWARE.jpg">
+   <img width="500" height="650" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/SOFTWARE.jpg">
 
 [Subir](#top)
 
