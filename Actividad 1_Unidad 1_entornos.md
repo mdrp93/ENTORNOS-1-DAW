@@ -1,4 +1,3 @@
-@@ -1,58 +0,0 @@
 <a name="top"></a>
 
 # UNIDAD 1
@@ -16,7 +15,6 @@ Podemos clasificar el software en los siguientes apartados:
 - **Software de sistemas** que son los elementos lógicos que controlan el hardware. Dentro de este grupo podemos encontrarnos por ejemplo con los SO o los drivers.
 - **Software de aplicación** que es el conjunto de programas que permiten al usuario realizar diferentes tareas.
 - **Software de desarrollo** que es aquel que permite crear y diseñar otros programas. Son la base para desarrollar nuevos sistemas.
-</p>
 
 <p align="center">
    <img width="500" height="650" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/SOFTWARE.jpg">
