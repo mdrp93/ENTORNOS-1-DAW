@@ -62,14 +62,14 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 La ingeniería es el ingenio de crear un diseño. Principios y metodologías para desarrollar y mantener el software.
 Ahora se usa el término desarrollo de software.
 
-FASES DEL DESARROLLO DEL SOFTWARE:
+###FASES DEL DESARROLLO DEL SOFTWARE:
    * ANÁLISIS 
    * DISEÑO 
    * CODIFICACIÓN
    * PRUEBAS 
    * MANTENIMIENTO (documentación)
 
-ANÁLISIS: se definen los requisitos y especificaciones. No solo corresponde al cliente si no a los desarrolladores.
+**ANÁLISIS:** se definen los requisitos y especificaciones. No solo corresponde al cliente si no a los desarrolladores.
    - Completos y sin omisiones: no se debe omitir nada y muy específicos
    - Concisos y sin trivialidades: solo cosas importantes. 
    - Evitar ambigüedades y utilizar lenguaje formal. 
@@ -79,7 +79,7 @@ ANÁLISIS: se definen los requisitos y especificaciones. No solo corresponde al 
    - Dividir y jerarquizar el modelo. Es tener claro las diferentes partes que tiene la aplicación.  
    - Fijar criterios de validación: que se va a considerar válidos y cuáles no.
 
-DISEÑO: Se organiza y se descompone el sistema  en elementos que se puedan desarrollar por separado. Intentando que esta descomposición de las partes  se puedan actuar a la vez. 
+**DISEÑO:** Se organiza y se descompone el sistema  en elementos que se puedan desarrollar por separado. Intentando que esta descomposición de las partes  se puedan actuar a la vez. 
 Se especifica la interrelación y funcionalidad de los elementos componentes.
 
    Actividades más habituales:
@@ -88,11 +88,11 @@ Se especifica la interrelación y funcionalidad de los elementos componentes.
    - Diseño de datos: qué datos figuran en cada bloque, como es la estructura de datos que se van a usar en todos los bloques debe ser el mismo. 
    - Diseño de interfaz de usuario.
 
-CODIFICACIÓN: en esta fase se escribe el código fuente de cada componente. 
+**CODIFICACIÓN:** en esta fase se escribe el código fuente de cada componente. 
 
-PRUEBAS: en esta fase se realizan pruebas para comprobar los errores que pueda tener el programa. 
+**PRUEBAS:** en esta fase se realizan pruebas para comprobar los errores que pueda tener el programa. 
 
-MANTENIMIENTO: Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.
+**MANTENIMIENTO:** Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.
 
 Tipos de mantenimiento: 
    * Correctivo: se corrigen defectos.
