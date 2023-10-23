@@ -18,6 +18,6 @@ El ciclo de vida del software o Systems Development Life Cycle son las fases que
 - Metodologías ágiles (o adaptativos)
 
 <p align="center">
-   <img width="500" height="650" src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Ciclo%20de%20vida_imagen%201_act2_ud1_entornos.drawio.png">
+   <img src="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Ciclo%20de%20vida_imagen%201_act2_ud1_entornos.drawio.png">
 
 [Subir](#top)
