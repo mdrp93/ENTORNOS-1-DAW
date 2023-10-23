@@ -168,7 +168,7 @@ Actividades más habituales:
                          <li>Valorar más la colaboración con el cliente que la negociación contractual</li></ul>
                        <li>Las metodologías más conocidas son:
                         <ul><li><b>KANBAM (o sistema de tarjetas):</b> Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</li>
-                         <ul><li><a href=" ... " title="Tarea 3 Unidad 1" Ir a tarea 3.</a></li></ul>
+                         <ul><li><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%203_Tema%201%20_entornos.pdf" target="_self">Ver: Tarea 3- Unidad 1</a></li></ul>
                         <li><b>SCRUM</b></li>
                         <li>XP (sXtreme Programing o programación extrema)</li></ul>
                   </ul></li>
@@ -176,6 +176,7 @@ Actividades más habituales:
           </p></li>
 </ul>
 
+"https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%203_Tema%201%20_entornos.pdf"
 
 <a name="itemud4"></a>
 ## 5. Lenguajes de programación. 
