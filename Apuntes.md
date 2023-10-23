@@ -27,20 +27,29 @@
 <a name="itemud1"></a>
 ## 1 y 2 Introducción: Conceptos básicos
 
-Existen tres tipos de software: de sistema, de aplicación, y de desarrollo. 
-- En el **software de sistema** se encuentran el SO., los drivers o controladores de dispositivos (firmware).
-- En el **software de aplicación** encontramos suite ofimática, navegadores, editor de imagenes o texto...
-- Y en el **software de desarrollo** encontramos editores, compiladores, interpretes..etc
+<ul>
+  <li>Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.
+  	 <ul>
+  		<li>En el <b>software de sistema</b> se encuentran el SO., los drivers o controladores de dispositivos (firmware).</li>
+  		<li>En el <b>software de aplicación</b> encontramos suite ofimática, navegadores, editor de imagenes o texto...</li>
+  		<li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li>
+  	 </ul>
+  </li>
+ <li>En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.
+         	<ul>
+         		<li><b>Los dispositivos de entrada y salida:</b> recogen datos desde la entrada y muestran los resultados por la salida.</li>
+               <ul>
+         		     <li>La salida es la información que se lee desde la cpu al exterior.</li>
+         		     <li>La entrada es información que se lee del exterior hacia la cpu.</li>
+         	    </ul>
+           </li>
+           <li><b>Memoria RAM:</b> almacena de manera temporal el código binario de los archivos ejecutables y de los datos que necesita.</li>
+           <li><b>CPU ó _Central processing Unit_:</b>lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.</li>
+           <li><b>Disco duro:</b> almacena de manera permanente los arcchivos ejecutables y los archivos de datos. </li>
+          </ul>
+</ul>
 
-En cuanto al hardware tenemos disco duro, memoria RAm, CPU, dispositivos de entrada y salida.
-- Los dispositivos de entrada y salida: recogen datos desde la entrada y muestran los resultados por la salida.
-> La entrada es información que se lee del exterior hacia la cpu.<br>La salida es la información que se lee desde la cpu al exterior. 
-- Memoria RAM: almacena de manera temporal el código binario de los archivos ejecutables y de los datos que necesita.
-- CPU ó _Central processing Unit_: lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.
-- Disco duro: almacena de manera permanente los arcchivos ejecutables y los archivos de datos. 
-
-
-
+Hay diferentes tipos de códigos:
 - **Código fuente:** es el código entendible por un ser humano para crear un programa. Permite modificar un programa de manera sencilla. 
 - **Código objeto:** es un archivo binario, no ejecutable, que se genera a partir del código fuente.
 - **Código ejecutable:** es un archivo que se puede ejecutar en el ordenador, y que previamente se han basado en el código fuente.
@@ -62,7 +71,7 @@ Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se 
 La ingeniería es el ingenio de crear un diseño. Principios y metodologías para desarrollar y mantener el software.
 Ahora se usa el término desarrollo de software.
 
-###FASES DEL DESARROLLO DEL SOFTWARE:
+### FASES DEL DESARROLLO DEL SOFTWARE:
    * ANÁLISIS 
    * DISEÑO 
    * CODIFICACIÓN
@@ -82,11 +91,13 @@ Ahora se usa el término desarrollo de software.
 **DISEÑO:** Se organiza y se descompone el sistema  en elementos que se puedan desarrollar por separado. Intentando que esta descomposición de las partes  se puedan actuar a la vez. 
 Se especifica la interrelación y funcionalidad de los elementos componentes.
 
-   Actividades más habituales:
-   - Diseño arquitectura: que va a hacer cada bloque
-   - Diseño detallado: de qué es y cómo va a ser cada bloque.
-   - Diseño de datos: qué datos figuran en cada bloque, como es la estructura de datos que se van a usar en todos los bloques debe ser el mismo. 
-   - Diseño de interfaz de usuario.
+Actividades más habituales:
+<ul>
+  <li>Diseño arquitectura: que va a hacer cada bloque</li>
+  <li>Diseño detallado: de qué es y cómo va a ser cada bloque.</li>
+  <li>Diseño de datos: qué datos figuran en cada bloque, como es la estructura de datos que se van a usar en todos los bloques debe ser el mismo. </li>
+ <li>Diseño de interfaz de usuario.</li>
+</ul>
 
 **CODIFICACIÓN:** en esta fase se escribe el código fuente de cada componente. 
 
@@ -105,6 +116,30 @@ Tipos de mantenimiento:
 <a name="itemud3"></a>
 ## 4. Modelos de desarrollo de software.
 
+Un modelo de desarrollo es el conjunto de una serie de técnicas y sistemas de organización para crear un software. 
+
+Hay diferentes modelos de desarrollo. 
+
+**Modelos clásicos (predictivos):**
+<p><b>- Modelo en cascada:</b> El modelo de desarrollo en cascada es un tipo de procedimiento lineal se caracteriza por dividirse en fases que se suceden entre sí, las cuales se ejecutan tan solo una vez a lo largo del proyecto.</p>
+<p>La fase anterior es el punto de partida para la siguiente. Es un modelo bastante rígido que se adapta mal al cambio continuo de especificaciones.</p>
+<p>En este modelo las fases han de realizarse en el orden indicado, siendo el resultado de una fase es la entrada de la siguiente fase.</p>
+<p><b>- Modelo en V:</b> Este es un modelo similar al modelo en cascada, pero en este se jerarquizan los distintos niveles. Los niveles superiores indican mayor nivel de abstracción y los inferiores maoyr nivel de detalle.</p> 
+</p><b></b>- Modelo de construcción de prototipos:</b> Este es un modelo que se basa en la creación de prototipos. Es utilizado principalmente para ofrecer al usuario una visión previa de cómo será el programa o sistema.</p>
+<p>Un prototipo es un primer modelo que sirve como representación o simulación del producto final y que nos permite confirmar que cuenta con lor requisitos y características deseados.</p>
+<p>En un modelo de prototipos las características fundamentales son:</p>
+<ol>
+  <li><b>Tiempo:</b> El prototipo se desarrolla en menos tiempo para poder ser probado o testeado.</li>
+  <li><b>Coste:</b> La inversión en un modelo de prototipo es ajustada, lo que requiere un uso óptimo de los recursos.</li>
+  <li><b>Conciso:</b> El prototipo debe incluir los requisitos y características básicas de la aplicación para poder evaluar su funcionamiento y utilidad.</li>
+  <li><b>Evolutivo:</b> El prototipo evoluciona gracias a la interacción con los usuarios.</li>
+ <li><b>Funcional:</b> El prototipo es una aplicación que funciona.</li>
+</ol>
+<p><b>Fases:</b> Plan rápido-->  Modelado/diseño --> rápido --> Construcción del prototipo -->Desarrollo/ entrega/ retroalimentación --> Comunicación --> ...</p>
+
+**Modelos evolutivos o incrementales**
+ - Modelo en espiral (iterativos)
+ - Metodologías ágiles (adaptativos)
 
 
 
