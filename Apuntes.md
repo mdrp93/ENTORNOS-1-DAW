@@ -27,15 +27,14 @@
 <a name="itemud1"></a>
 ## 1 y 2 Introducción: Conceptos básicos
 
-<ul>
-  <li>Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.
+Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.
   	 <ul>
   		<li>En el <b>software de sistema</b> se encuentran el SO., los drivers o controladores de dispositivos (firmware).</li>
   		<li>En el <b>software de aplicación</b> encontramos suite ofimática, navegadores, editor de imagenes o texto...</li>
   		<li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li>
   	 </ul>
   </li>
- <p><li>En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.
+ <p>En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.
          	<ul>
          		<li><b>Los dispositivos de entrada y salida:</b> recogen datos desde la entrada y muestran los resultados por la salida.</li>
                <ul>
@@ -47,7 +46,7 @@
            <li><b>CPU ó _Central processing Unit_:</b>lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.</li>
            <li><b>Disco duro:</b> almacena de manera permanente los arcchivos ejecutables y los archivos de datos. </li>
           </ul></p>
-</ul>
+
 
 Hay diferentes tipos de códigos (conceptos):
 <ul>
@@ -80,15 +79,17 @@ Ahora se usa el término desarrollo de software.
    * PRUEBAS 
    * MANTENIMIENTO (documentación)
 
-**ANÁLISIS:** se definen los requisitos y especificaciones. No solo corresponde al cliente si no a los desarrolladores.
-   - Completos y sin omisiones: no se debe omitir nada y muy específicos
-   - Concisos y sin trivialidades: solo cosas importantes. 
-   - Evitar ambigüedades y utilizar lenguaje formal. 
-   - Evitar detalles de diseño e implementación. Es decir, se debe centrar en los requisitos “generales” que sean importantes para el cliente. 
-   - Ser entendible por el cliente. 
-   - Separar requisitos funcionales o no funcionales. Funcional que hace algo, no funcional no afecta a función del programa. 
-   - Dividir y jerarquizar el modelo. Es tener claro las diferentes partes que tiene la aplicación.  
-   - Fijar criterios de validación: que se va a considerar válidos y cuáles no.
+<b>ANÁLISIS:</b> se definen los requisitos y especificaciones. No solo corresponde al cliente si no a los desarrolladores.
+   <ul>
+   <li>Completos y sin omisiones: no se debe omitir nada y muy específicos</li>
+   <li>Concisos y sin trivialidades: solo cosas importantes. </li>
+   <li>Evitar ambigüedades y utilizar lenguaje formal. </li>
+   <li>Evitar detalles de diseño e implementación. Es decir, se debe centrar en los requisitos “generales” que sean importantes para el cliente. </li>
+   <li>Ser entendible por el cliente. </li>
+   <li>Separar requisitos funcionales o no funcionales. Funcional que hace algo, no funcional no afecta a función del programa. </li>
+   <li>Dividir y jerarquizar el modelo. Es tener claro las diferentes partes que tiene la aplicación.  </li>
+   <li>Fijar criterios de validación: que se va a considerar válidos y cuáles no.</li>
+   </ul>
 
 **DISEÑO:** Se organiza y se descompone el sistema  en elementos que se puedan desarrollar por separado. Intentando que esta descomposición de las partes  se puedan actuar a la vez. 
 Se especifica la interrelación y funcionalidad de los elementos componentes.
@@ -101,17 +102,17 @@ Actividades más habituales:
  <li>Diseño de interfaz de usuario.</li>
 </ul>
 
-**CODIFICACIÓN:** en esta fase se escribe el código fuente de cada componente. 
-
-**PRUEBAS:** en esta fase se realizan pruebas para comprobar los errores que pueda tener el programa. 
-
-**MANTENIMIENTO:** Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.
-
-Tipos de mantenimiento: 
-   * Correctivo: se corrigen defectos.
-   * Perfectivo: se mejora la funcionalidad
-   * Evolutivo: se añade funcionalidades nuevas.
-   * Adaptativo: se adapta a nuevos entornos.
+<p><b>CODIFICACIÓN:</b>en esta fase se escribe el código fuente de cada componente.</p>
+<p><b>PRUEBAS:</b> en esta fase se realizan pruebas para comprobar los errores que pueda tener el programa. </p>
+<p><b>MANTENIMIENTO:</b>Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.</p>
+<p>Tipos de mantenimiento:
+<ul> 
+   <li> Correctivo: se corrigen defectos.</li>
+   <li>  Perfectivo: se mejora la funcionalidad</li>
+   <li>  Evolutivo: se añade funcionalidades nuevas.</li>
+   <li>  Adaptativo: se adapta a nuevos entornos.</li>
+</ul>
+</p>
 
 [Subir](#item1)
 
@@ -121,32 +122,42 @@ Tipos de mantenimiento:
 Un modelo de desarrollo es el conjunto de una serie de técnicas y sistemas de organización para crear un software. 
 
 Hay diferentes modelos de desarrollo. 
-
-**Modelos clásicos (predictivos):**
-<p><b>- Modelo en cascada:</b> El modelo de desarrollo en cascada es un tipo de procedimiento lineal se caracteriza por dividirse en fases que se suceden entre sí, las cuales se ejecutan tan solo una vez a lo largo del proyecto.</p>
-<p>La fase anterior es el punto de partida para la siguiente. Es un modelo bastante rígido que se adapta mal al cambio continuo de especificaciones.</p>
-<p>En este modelo las fases han de realizarse en el orden indicado, siendo el resultado de una fase es la entrada de la siguiente fase.</p>
-<p><b>- Modelo en V:</b> Este es un modelo similar al modelo en cascada, pero en este se jerarquizan los distintos niveles. Los niveles superiores indican mayor nivel de abstracción y los inferiores maoyr nivel de detalle.</p> 
-</p><b></b>- Modelo de construcción de prototipos:</b> Este es un modelo que se basa en la creación de prototipos. Es utilizado principalmente para ofrecer al usuario una visión previa de cómo será el programa o sistema.</p>
-<p>Un prototipo es un primer modelo que sirve como representación o simulación del producto final y que nos permite confirmar que cuenta con lor requisitos y características deseados.</p>
-<p>En un modelo de prototipos las características fundamentales son:</p>
-<ol>
-  <li><b>Tiempo:</b> El prototipo se desarrolla en menos tiempo para poder ser probado o testeado.</li>
-  <li><b>Coste:</b> La inversión en un modelo de prototipo es ajustada, lo que requiere un uso óptimo de los recursos.</li>
-  <li><b>Conciso:</b> El prototipo debe incluir los requisitos y características básicas de la aplicación para poder evaluar su funcionamiento y utilidad.</li>
-  <li><b>Evolutivo:</b> El prototipo evoluciona gracias a la interacción con los usuarios.</li>
- <li><b>Funcional:</b> El prototipo es una aplicación que funciona.</li>
+ <p><ol type="I"> 
+         	<ul>
+         		<li><p><b>Modelos clásicos (predictivos):</b></li>
+               <ul>
+         		     <li><b>Modelo en cascada:</b> El modelo de desarrollo en cascada es un tipo de procedimiento lineal se caracteriza por dividirse en fases que se suceden entre sí, las cuales se ejecutan tan solo una vez a lo largo del proyecto.
+                   <ol><li>La fase anterior es el punto de partida para la siguiente. Es un modelo bastante rígido que se adapta mal al cambio continuo de especificaciones.</li>
+                   <li>En este modelo las fases han de realizarse en el orden indicado, siendo el resultado de una fase es la entrada de la siguiente fase.</li>
+                   </ol>
+                </li></ul>
+                <ul>
+         		    <li><b>Modelo en V:</b> Este es un modelo similar al modelo en cascada, pero en este se jerarquizan los distintos niveles. Los niveles superiores indican mayor nivel de abstracción y los inferiores maoyr nivel de detalle.</li>
+               </ul>
+          </p></li>
+           <li><p><b>Modelo de construcción de prototipos:</b> Este es un modelo que se basa en la creación de prototipos. Es utilizado principalmente para ofrecer al usuario una visión previa de cómo será el programa o sistema.
+               <ul>
+               <li>Un prototipo es un primer modelo que sirve como representación o simulación del producto final y que nos permite confirmar que cuenta con lor requisitos y características deseados.
+                <li>En un modelo de prototipos las características fundamentales son:
+                    <ol>
+                      <li><b>Tiempo:</b> El prototipo se desarrolla en menos tiempo para poder ser probado o testeado.</li>
+                      <li><b>Coste:</b> La inversión en un modelo de prototipo es ajustada, lo que requiere un uso óptimo de los recursos.</li>
+                      <li><b>Conciso:</b> El prototipo debe incluir los requisitos y características básicas de la aplicación para poder evaluar su funcionamiento y utilidad.</li>
+                      <li><b>Evolutivo:</b> El prototipo evoluciona gracias a la interacción con los usuarios.</li>
+                     <li><b>Funcional:</b> El prototipo es una aplicación que funciona.</li></p>
+                    </ol>
+                 </li>
+               </ul>
+           </li>       
+          </ul>
 </ol>
 <p><b>Fases:</b> Plan rápido-->  Modelado/diseño --> rápido --> Construcción del prototipo -->Desarrollo/ entrega/ retroalimentación --> Comunicación --> ...</p>
 
-**Modelos evolutivos o incrementales**
+<p><b>Modelos evolutivos o incrementales</b>
  - Modelo en espiral (iterativos)
  - Metodologías ágiles (adaptativos)
 
-
-
-
-
+ 
 
 <a name="itemud4"></a>
 ## 5. Lenguajes de programación. 
