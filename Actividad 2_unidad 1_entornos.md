@@ -19,7 +19,7 @@ El ciclo de vida del software o Systems Development Life Cycle son las fases que
 
 
 <p align="center">
-   <img width="450" height="300" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/Ciclo%20de%20vida_imagen%201_act2_ud1_entornos.drawio.png">
+   <img width="650" height="350" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/Ciclo%20de%20vida_imagen%201_act2_ud1_entornos.drawio.png">
 
 
 [Subir](#top)
