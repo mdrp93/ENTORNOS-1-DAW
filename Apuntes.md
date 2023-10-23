@@ -130,10 +130,10 @@ Actividades más habituales:
          		    <li><b>Modelo en V:</b> Este es un modelo similar al modelo en cascada, pero en este se jerarquizan los distintos niveles. Los niveles superiores indican mayor nivel de abstracción y los inferiores maoyr nivel de detalle.</li>
                </ul>
           </p></li>
-           <li><p><b>Modelo de construcción de prototipos:</b> Este es un modelo que se basa en la creación de prototipos. Es utilizado principalmente para ofrecer al usuario una visión previa de cómo será el programa o sistema.
+           <li><p><b>Modelo de construcción de prototipos:</b> Este es un modelo que se basa en la creación de prototipos. Es utilizado principalmente para ofrecer al usuario una visión previa de cómo será el programa o sistema.</p>
                <ul>
                <li>Un prototipo es un primer modelo que sirve como representación o simulación del producto final y que nos permite confirmar que cuenta con lor requisitos y características deseados.
-                <li>En un modelo de prototipos las características fundamentales son:
+                <li><p>En un modelo de prototipos las características fundamentales son:</p>
                     <ol>
                       <li><b>Tiempo:</b> El prototipo se desarrolla en menos tiempo para poder ser probado o testeado.</li>
                       <li><b>Coste:</b> La inversión en un modelo de prototipo es ajustada, lo que requiere un uso óptimo de los recursos.</li>
@@ -151,15 +151,15 @@ Actividades más habituales:
                 <li><p><b>Fases:</b> Plan rápido-->  Modelado/diseño --> rápido --> Construcción del prototipo -->Desarrollo/ entrega/ retroalimentación --> Comunicación --> ...</p></li>
                </ul>
            </li> 
-         <li><p><b>Modelos evolutivos o incrementales</b></li>
+         <li><p><b>Modelos evolutivos o incrementales</b></p></li>
                <ul>
-         		     <li><b> Modelo en espiral (iteractivos)</b> Este es un modelo que está basado en el riesgo y orientado a objetos. A diferencia de un modelo lineal como es el modelo en cascada este modelo tiene un ciclo de vida por medio de espirales que hay que recorrer.<br> 
-                 Este enfoque se parece bastante a la creación de prototipos. <br>Al centrarse en la minimización del riesgo, mediante el análisis y la evaluación de riesgos, este modelo tiene un componente financiero que puede ser muy relevante. 
+         		     <li><b><p> Modelo en espiral (iteractivos)</b> Este es un modelo que está basado en el riesgo y orientado a objetos. A diferencia de un modelo lineal como es el modelo en cascada este modelo tiene un ciclo de vida por medio de espirales que hay que recorrer.</p>
+                 <p>Este enfoque se parece bastante a la creación de prototipos. </p><p>Al centrarse en la minimización del riesgo, mediante el análisis y la evaluación de riesgos, este modelo tiene un componente financiero que puede ser muy relevante. </p>
                    <ul><li>El progreso del proyecto va a depender de cómo se vayan resolviendo los riesgos identificados.</li>
                     <li>El objetivo de este modelo es producir un proyecto en continua mejora desde el inicio. </li></ul>
                </li></ul>
                 <ul>
-         		    <li><b>Metodologías ágiles (adaptativos)</b>
+         		    <li><p><b>Metodologías ágiles (adaptativos)</b></p>
                   <ul><li>Son métodos de ingeniería del software basados en el desarrollo iterativo e incremental, se diferencian por que los requisitos y soluciones evolucionan con el tempo según la necesidad del proyecto</li>
                       <li>Los <b>principios básicos</b> de estas metodologías son:
                          <ul><li>Valorar más a los individuos y sus interacciones que a los procesos y las herramientas. Los procesos deben ser una ayuda y un soporte para guiar el trabajo.</li>
@@ -168,15 +168,15 @@ Actividades más habituales:
                          <li>Valorar más la colaboración con el cliente que la negociación contractual</li></ul>
                        <li>Las metodologías más conocidas son:
                         <ul><li><b>KANBAM (o sistema de tarjetas):</b> Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</li>
-                         <ul><li><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%203_Tema%201%20_entornos.pdf" target="_self">Ver: Tarea 3- Unidad 1</a></li></ul>
                         <li><b>SCRUM</b></li>
-                        <li>XP (sXtreme Programing o programación extrema)</li></ul>
+                        <li>XP (sXtreme Programing o programación extrema)</li>
+                        <li><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%203_Tema%201%20_entornos.pdf" target="_self">Ver: Tarea 3- Unidad 1</a></li>
+                        </ul>
                   </ul></li>
                </ul>
           </p></li>
 </ul>
 
-"https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%203_Tema%201%20_entornos.pdf"
 
 <a name="itemud4"></a>
 ## 5. Lenguajes de programación. 
