@@ -89,7 +89,9 @@ Se especifica la interrelación y funcionalidad de los elementos componentes.
    - Diseño de interfaz de usuario.
 
 CODIFICACIÓN: en esta fase se escribe el código fuente de cada componente. 
+
 PRUEBAS: en esta fase se realizan pruebas para comprobar los errores que pueda tener el programa. 
+
 MANTENIMIENTO: Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.
 
 Tipos de mantenimiento: 
