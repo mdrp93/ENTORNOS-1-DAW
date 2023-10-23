@@ -31,16 +31,14 @@ Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.
   	 <ul>
   		<li>En el <b>software de sistema</b> se encuentran el SO., los drivers o controladores de dispositivos (firmware).</li>
   		<li>En el <b>software de aplicación</b> encontramos suite ofimática, navegadores, editor de imagenes o texto...</li>
-  		<li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li>
-  	 </ul>
+  		<li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li></ul>
   </li>
  <p>En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.
          	<ul>
          		<li><b>Los dispositivos de entrada y salida:</b> recogen datos desde la entrada y muestran los resultados por la salida.</li>
                <ul>
          		     <li>La salida es la información que se lee desde la cpu al exterior.</li>
-         		     <li>La entrada es información que se lee del exterior hacia la cpu.</li>
-         	    </ul>
+         		     <li>La entrada es información que se lee del exterior hacia la cpu.</li></ul>
            </li>
            <li><b>Memoria RAM:</b> almacena de manera temporal el código binario de los archivos ejecutables y de los datos que necesita.</li>
            <li><b>CPU ó _Central processing Unit_:</b>lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.</li>
@@ -101,7 +99,6 @@ Actividades más habituales:
   <li>Diseño de datos: qué datos figuran en cada bloque, como es la estructura de datos que se van a usar en todos los bloques debe ser el mismo. </li>
  <li>Diseño de interfaz de usuario.</li>
 </ul>
-
 <p><b>CODIFICACIÓN:</b>en esta fase se escribe el código fuente de cada componente.</p>
 <p><b>PRUEBAS:</b> en esta fase se realizan pruebas para comprobar los errores que pueda tener el programa. </p>
 <p><b>MANTENIMIENTO:</b>Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.</p>
@@ -119,11 +116,9 @@ Actividades más habituales:
 <a name="itemud3"></a>
 ## 4. Modelos de desarrollo de software.
 
-Un modelo de desarrollo es el conjunto de una serie de técnicas y sistemas de organización para crear un software. 
-
-Hay diferentes modelos de desarrollo. 
- <p><ol type="I"> 
-         	<ul>
+<p>Un modelo de desarrollo es el conjunto de una serie de técnicas y sistemas de organización para crear un software. </p>
+<p>Hay diferentes modelos de desarrollo.</p>
+ <p>	<ul>
          		<li><p><b>Modelos clásicos (predictivos):</b></li>
                <ul>
          		     <li><b>Modelo en cascada:</b> El modelo de desarrollo en cascada es un tipo de procedimiento lineal se caracteriza por dividirse en fases que se suceden entre sí, las cuales se ejecutan tan solo una vez a lo largo del proyecto.
@@ -146,18 +141,40 @@ Hay diferentes modelos de desarrollo.
                       <li><b>Evolutivo:</b> El prototipo evoluciona gracias a la interacción con los usuarios.</li>
                      <li><b>Funcional:</b> El prototipo es una aplicación que funciona.</li></p>
                     </ol>
-                 </li>
+               </li>
+                <li><b>Tipos de prototipos:</b>
+                    <ol>
+                      <li><b>Rápidos:</b> En este modelo se da prioridad al desarrollo rápido pues el objetivo es conseguir una rápida evaluación del modelo, por ejemplo, para evaluar si es viable o rentable el desarrollo del producto final.</li>
+                      <li><b>Evolutivos:</b> El prototipo está diseñado en el mismo lenguaje y herramientas del proyecto, y el prototipo se usa como base para desarrollar el proyecto.</li>
+                     </ol>
+               </li>
+                <li><p><b>Fases:</b> Plan rápido-->  Modelado/diseño --> rápido --> Construcción del prototipo -->Desarrollo/ entrega/ retroalimentación --> Comunicación --> ...</p></li>
                </ul>
-           </li>       
-          </ul>
-</ol>
-<p><b>Fases:</b> Plan rápido-->  Modelado/diseño --> rápido --> Construcción del prototipo -->Desarrollo/ entrega/ retroalimentación --> Comunicación --> ...</p>
+           </li> 
+         <li><p><b>Modelos evolutivos o incrementales</b></li>
+               <ul>
+         		     <li><b> Modelo en espiral (iteractivos)</b> Este es un modelo que está basado en el riesgo y orientado a objetos. A diferencia de un modelo lineal como es el modelo en cascada este modelo tiene un ciclo de vida por medio de espirales que hay que recorrer.<br> 
+                 Este enfoque se parece bastante a la creación de prototipos. <br>Al centrarse en la minimización del riesgo, mediante el análisis y la evaluación de riesgos, este modelo tiene un componente financiero que puede ser muy relevante. 
+                   <ul><li>El progreso del proyecto va a depender de cómo se vayan resolviendo los riesgos identificados.</li>
+                    <li>El objetivo de este modelo es producir un proyecto en continua mejora desde el inicio. </li></ul>
+               </li></ul>
+                <ul>
+         		    <li><b>Metodologías ágiles (adaptativos)</b>
+                  <ul><li>Son métodos de ingeniería del software basados en el desarrollo iterativo e incremental, se diferencian por que los requisitos y soluciones evolucionan con el tempo según la necesidad del proyecto</li>
+                      <li>Los <b>principios básicos</b> de estas metodologías son:
+                         <ul><li>Valorar más a los individuos y sus interacciones que a los procesos y las herramientas. Los procesos deben ser una ayuda y un soporte para guiar el trabajo.</li>
+                         <li>Valorar más el software funcionando que la documentación exhaustiva.</li>
+                         <li>Valorar más la respuesta ante el cambio a que seguir un plan.</li>
+                         <li>Valorar más la colaboración con el cliente que la negociación contractual</li></ul>
+                       <li>Las metodologías más conocidas son:
+                        <ul><li>KANBAM</li>
+                        <li>SCRUM</li>
+                        <li>XP (sXtreme Programing o programación extrema)</li></ul>
+                  </ul></li>
+               </ul>
+          </p></li>
+</ul>
 
-<p><b>Modelos evolutivos o incrementales</b>
- - Modelo en espiral (iterativos)
- - Metodologías ágiles (adaptativos)
-
- 
 
 <a name="itemud4"></a>
 ## 5. Lenguajes de programación. 
