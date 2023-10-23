@@ -177,6 +177,7 @@ Actividades más habituales:
           </p></li>
 </ul>
 
+[Subir](#item1)
 
 <a name="itemud4"></a>
 ## 5. Lenguajes de programación. 
@@ -247,8 +248,8 @@ Muchos de estos lenguajes son compilados.
 - Transportabilidad
 - Imposición del cliente
 
-
-[Subir](#top)
+[Subir](#item1)
+[Subir a apartados](#top)
 
 ### Tareas de la unidad 1.
 * [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%201_Tema%201_entornos.pdf)
