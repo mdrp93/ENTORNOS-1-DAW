@@ -170,7 +170,7 @@ Actividades más habituales:
                         <ul><li><b>KANBAM (o sistema de tarjetas):</b> Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</li>
                         <li><b>SCRUM</b></li>
                         <li>XP (sXtreme Programing o programación extrema)</li>
-                        <li><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%203_Tema%201%20_entornos.pdf" target="_self">Ver: Tarea 3- Unidad 1</a></li>
+                        <li><a href=" " target="_self">Ver: Tarea 3- Unidad 1</a></li>
                         </ul>
                   </ul></li>
                </ul>
@@ -252,10 +252,10 @@ Muchos de estos lenguajes son compilados.
 [Subir a apartados](#top)
 
 ### Tareas de la unidad 1.
-* [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%201_Tema%201_entornos.pdf)
-* [Tarea 2: Ciclo de vida del software.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%202_Tema%201_entornos.pdf)
-* [Tarea 3: Ciclo de vida del software 2. Metodologías.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%203_Tema%201%20_entornos.pdf)
-* [Tarea 4: Lenguajes de programación](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/ACTIVIDAD%204_Tema1_%20entornos.pdf)
+* [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%201_Unidad%201_entornos.md)
+* [Tarea 2: Ciclo de vida del software.]()
+* [Tarea 3: Ciclo de vida del software 2. Metodologías.]()
+* [Tarea 4: Lenguajes de programación]()
 
 
 [Subir](#top)
