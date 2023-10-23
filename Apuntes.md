@@ -167,8 +167,9 @@ Actividades más habituales:
                          <li>Valorar más la respuesta ante el cambio a que seguir un plan.</li>
                          <li>Valorar más la colaboración con el cliente que la negociación contractual</li></ul>
                        <li>Las metodologías más conocidas son:
-                        <ul><li>KANBAM</li>
-                        <li>SCRUM</li>
+                        <ul><li><b>KANBAM (o sistema de tarjetas):</b> Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</li>
+                         <ul><li><a href=" ... " title="Tarea 3 Unidad 1" Ir a tarea 3.</a></li></ul>
+                        <li><b>SCRUM</b></li>
                         <li>XP (sXtreme Programing o programación extrema)</li></ul>
                   </ul></li>
                </ul>
@@ -244,7 +245,6 @@ Muchos de estos lenguajes son compilados.
 - Reusabilidad
 - Transportabilidad
 - Imposición del cliente
-
 
 
 [Subir](#top)
