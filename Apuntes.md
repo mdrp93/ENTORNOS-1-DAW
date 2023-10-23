@@ -35,7 +35,7 @@
   		<li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li>
   	 </ul>
   </li>
- <li>En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.
+ <p><li>En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.
          	<ul>
          		<li><b>Los dispositivos de entrada y salida:</b> recogen datos desde la entrada y muestran los resultados por la salida.</li>
                <ul>
@@ -46,21 +46,23 @@
            <li><b>Memoria RAM:</b> almacena de manera temporal el código binario de los archivos ejecutables y de los datos que necesita.</li>
            <li><b>CPU ó _Central processing Unit_:</b>lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.</li>
            <li><b>Disco duro:</b> almacena de manera permanente los arcchivos ejecutables y los archivos de datos. </li>
-          </ul>
+          </ul></p>
 </ul>
 
-Hay diferentes tipos de códigos:
-- **Código fuente:** es el código entendible por un ser humano para crear un programa. Permite modificar un programa de manera sencilla. 
-- **Código objeto:** es un archivo binario, no ejecutable, que se genera a partir del código fuente.
-- **Código ejecutable:** es un archivo que se puede ejecutar en el ordenador, y que previamente se han basado en el código fuente.
+Hay diferentes tipos de códigos (conceptos):
+<ul>
+  <li><b>Código fuente:</b>es el código entendible por un ser humano para crear un programa. Permite modificar un programa de manera sencilla. </li>
+  <li><b>Código objeto:</b> es un archivo binario, no ejecutable, que se genera a partir del código fuente.</li>
+  <li><b>Código ejecutable:</b> es un archivo que se puede ejecutar en el ordenador, y que previamente se han basado en el código fuente.</li>
+</ul>
 
 > Comentario: En JAVA el código objeto se le llama bytecode.
   
-El que hace que un código se entienda en una máquina es el compilador. 
+El que hace que un código se entienda en una máquina es <b>el compilador</b>. 
 
 Hay lenguajes compilados y otros que son los lenguajes interpretados que no necesitan ser compilados. 
 
-Por otro lado **los scripts** son lenguajes que no necesitan ser compilados, se empiezan a ejecutar desde la primera orden o línea. (python, typescrit). 
+Por otro lado <b>los scripts</b> son lenguajes que no necesitan ser compilados, se empiezan a ejecutar desde la primera orden o línea. (python, typescrit). 
 
 > Comentario: Core - Los núcleos permiten llevar diferentes hilos de ejecución independientes.
 
