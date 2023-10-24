@@ -30,5 +30,5 @@ Herramientas utilizadas:
 En construcción.
 
 ## Autor ✒️
-* **Maria Diaz RP** - [María Díaz RP](https://github.com/mdrp93?tab=overview&from=2023-09-01&to=2023-09-30)
+* **Maria Diaz-Rozas Pantoja** - [María Díaz RP](https://github.com/mdrp93?tab=overview&from=2023-09-01&to=2023-09-30)
 
