@@ -41,7 +41,7 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
 
 <p>El modelo de desarrollo en cascada es un tipo de procedimiento lineal se caracteriza por dividirse en fases que se suceden entre sí, las cuales se ejecutan tan solo una vez a lo largo del proyecto. La fase anterior es el punto de partida para la siguiente. </p>
 <p>Las fase que se plantean en él son las siguiente:</p>
-<ol start="1">
+<ol>
   <li>Requisitos del sistema y del software.</li>
   <li>Análisis.</li>
   <li>Diseño.</li>
