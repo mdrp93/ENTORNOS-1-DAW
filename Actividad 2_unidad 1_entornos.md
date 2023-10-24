@@ -34,7 +34,7 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
 <li><b>Fase 3 - Codificación.</b><br>En esta fase de codificación, se debe escribir el código fuente con el lenguaje adecuado.</li>
 <li><b>Fase 4 - Pruebas.</b><br>Una vez que el código ha sido creado hay que comprobar que el programa ejecute las tareas especificadas. Además, en esta fase se detectan fallas y se analiza el rendimiento del software. Tras las pruebas también se puede llevar a cabo una implementación del programa, es decir, habilitarlo para que el usuario lo utilice en los diferentes entornos sin problemas de compatibilidad.</li>
 <li><b>Fase 5 - Mantenimiento. </b><br>Tras las pruebas realizadas, y puesta en marcha del programa, hay que mantenerlo, optimizarlo, y mejorarlo para eliminar los errores detectados, adaptar nuevas funciones o requerimientos. Es decir, actualizarlo. </li>
-<p></p>
+</ul>
 
    
 [Subir](#top)
