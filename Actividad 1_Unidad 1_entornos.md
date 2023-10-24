@@ -1,10 +1,10 @@
 <a name="top"></a>
 
-# UNIDAD 1
+UNIDAD 1
 
 <a name="item1"></a>
 
-## Tarea 1: INTRODUCCIÓN.
+# Tarea 1: INTRODUCCIÓN.
 
 ### 1. Haz una clasificación del software.
 
@@ -54,6 +54,7 @@ El software (parte blanda por su traducción del inglés) es un conjunto de prog
 Por otro lado el firmware como ya dijimos es un tipo de software que está  dentro del hardware, es el soporte lógico más básico que controla los circuitos electrónicos del dispositivo, es decir que lo maneja físicamente. Un ejemplo claro de firmware es el programa BIOS.  
 div><p align="center"> <img width="550" height="650" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/firmware_software.png"></div> 
 
-
-
 [Subir](#top)
+
+
+[Volver a APUNTES DE LA UNIDAD 1](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md#unidad-1)
