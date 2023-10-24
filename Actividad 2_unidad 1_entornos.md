@@ -82,6 +82,16 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
 <p align="center">
    <img width="470" height="350" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/FasesModeloPrototipo_act2_ud1.png">
 
+[Subir](#top)
+
+### 7.- Explica cómo funciona el modelo espiral cuando se aplica al desarrollo orientado a objetos.
+<p>Este es un modelo que está basado en el riesgo. A diferencia de un modelo lineal como es el modelo en cascada este modelo tiene un ciclo de vida por medio de espirales que hay que recorrer. Este enfoque se parece bastante a la creación de prototipos. Al centrarse en la minimización del riesgo, mediante el análisis y la evaluación de riesgos, este modelo tiene un componente financiero que puede ser muy relevante.</p>
+<p>El progreso del proyecto va a depender de cómo se vayan resolviendo los riesgos identificados. El objetivo de este modelo es producir un proyecto en continua mejora desde el inicio. </p>
+
+<p align="center">
+   <img width="550" height="610" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/ModeloEspiral_act2_ud1.png">
+
+   
 
 
 
