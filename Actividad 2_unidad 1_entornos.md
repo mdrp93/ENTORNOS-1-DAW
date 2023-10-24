@@ -91,8 +91,19 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
 <p align="center">
    <img width="550" height="610" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/ModeloEspiral_act2_ud1.png">
 
-   
+[Subir](#top)
 
+### 8 - Webgrafía.
 
+<ul>
+  <li>https://intelequia.com/es/blog/post/ciclo-de-vida-del-software-todo-lo-que-necesitas-saber</li>
+  <li>https://evotic.es/software-a-medida/ciclo-de-vida-del-software/</li>
+  <li>https://intelequia.com/es/blog/post/ciclo-de-vida-del-software-todo-lo-que-necesitas-saber</li>
+  <li>https://raknarrok.blogspot.com/2015/05/cap-3-software-development-life-cycle.html</li>
+   <li>https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/el-modelo-en-cascada/</li>
+   <li>https://www.emerson.com/documents/automation/training-sis-203-verification-validation-es-es-41624.pdf</li>
+   <li>https://es.ryte.com/wiki/Modelo_en_Espiral#Informaci.C3.B3n_general</li>
+</ul>
 
+[Subir](#top)
 
