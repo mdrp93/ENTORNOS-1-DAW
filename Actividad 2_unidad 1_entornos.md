@@ -50,4 +50,11 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
    <li>Mantenimiento.</li>
 </ol>
 <p align="center">
-   <img width="650" height="350" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/FasesCicloVida_act2_ud1.png">
+   <img width="650" height="350" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/FasesModeloCascada_act2_ud1.png">
+
+[Subir](#top)
+
+### 4.- Ventajas e inconvenientes del modelo en cascada.
+
+![](https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/ModeloenCascadaVentajasTabla_act2_ud1.drawio.png)
+
