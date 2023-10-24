@@ -248,8 +248,7 @@ Muchos de estos lenguajes son compilados.
 - Transportabilidad
 - Imposición del cliente
 
-[Subir](#item1)
-[Subir a apartados](#top)
+[Volver a unidad 1](#item1)
 
 ### Tareas de la unidad 1.
 * [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%201_Unidad%201_entornos.md)
@@ -258,7 +257,7 @@ Muchos de estos lenguajes son compilados.
 * [Tarea 4: Lenguajes de programación]()
 
 
-[Subir](#top)
+[Subir a apartados](#top)
  
 <a name="item2"></a>
 ## Unidad 2
