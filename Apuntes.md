@@ -29,22 +29,18 @@
 ## 1 y 2 Introducción: Conceptos básicos
 
 Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.
-  	 <ul>
-  		<li>En el <b>software de sistema</b> se encuentran el SO., los drivers o controladores de dispositivos (firmware).</li>
-  		<li>En el <b>software de aplicación</b> encontramos suite ofimática, navegadores, editor de imagenes o texto...</li>
-  		<li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li></ul>
-  </li>
+<ul><li>En el <b>software de sistema</b> se encuentran el SO., los drivers o controladores de dispositivos (firmware).</li>
+<li>En el <b>software de aplicación</b> encontramos suite ofimática, navegadores, editor de imagenes o texto...</li>
+<li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li></ul></li>
  <p>En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.
-         	<ul>
-         		<li><b>Los dispositivos de entrada y salida:</b> recogen datos desde la entrada y muestran los resultados por la salida.</li>
-               <ul>
-         		     <li>La salida es la información que se lee desde la cpu al exterior.</li>
-         		     <li>La entrada es información que se lee del exterior hacia la cpu.</li></ul>
-           </li>
-           <li><b>Memoria RAM:</b> almacena de manera temporal el código binario de los archivos ejecutables y de los datos que necesita.</li>
-           <li><b>CPU ó _Central processing Unit_:</b>lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.</li>
-           <li><b>Disco duro:</b> almacena de manera permanente los arcchivos ejecutables y los archivos de datos. </li>
-          </ul></p>
+<ul>
+ <li><b>Los dispositivos de entrada y salida:</b> recogen datos desde la entrada y muestran los resultados por la salida.</li>
+ <ul>
+ <li>La salida es la información que se lee desde la cpu al exterior.</li>
+ <li>La entrada es información que se lee del exterior hacia la cpu.</li></ul></li>
+ <li><b>Memoria RAM:</b> almacena de manera temporal el código binario de los archivos ejecutables y de los datos que necesita.</li>
+ <li><b>CPU ó _Central processing Unit_:</b>lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.</li>
+ <li><b>Disco duro:</b> almacena de manera permanente los arcchivos ejecutables y los archivos de datos. </li></ul></p>
 
 
 Hay diferentes tipos de códigos (conceptos):
