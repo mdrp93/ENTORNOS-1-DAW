@@ -1,10 +1,10 @@
 <a name="top"></a>
 
-# UNIDAD 1
+UNIDAD 1
 
 <a name="item1"></a>
 
-## Tarea 2: CICLO DE VIDA DEL SOFTWARE.
+# Actividad 2: CICLO DE VIDA DEL SOFTWARE.
 
 ### 1.- Define "Ciclo de vida del software".
 
