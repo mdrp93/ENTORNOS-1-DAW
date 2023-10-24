@@ -249,7 +249,7 @@ Muchos de estos lenguajes son compilados.
 - Transportabilidad
 - Imposición del cliente
 
-[Volver a unidad 1](#item1)
+[Subir](#item1)
 
 <a name="itemud5"></a>
 ### Actividades de la unidad 1.
@@ -259,7 +259,7 @@ Muchos de estos lenguajes son compilados.
 * [Actividad 4: Lenguajes de programación]()
 
 
-[Subir a apartados](#top)
+[Subir a APARTADOS](#top)
  
 <a name="item2"></a>
 ## Unidad 2
