@@ -49,3 +49,5 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
    <li>Pruebas.</li>
    <li>Mantenimiento.</li>
 </ol>
+<p align="center">
+   <img width="650" height="350" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/FasesCicloVida_act2_ud1.png">
