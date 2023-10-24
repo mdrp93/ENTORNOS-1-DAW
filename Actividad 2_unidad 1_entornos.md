@@ -109,5 +109,4 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
 
 [Subir](#top)
 
-[Volver a APUNTES en la UNIDAD 1](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md#unidad-1)
-
+<p><h5>Fin de la Actividad 2:<br></p> <p><i><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md#unidad-1">Volver a APUNTES en la UNIDAD 1</a></i></h3></p>
