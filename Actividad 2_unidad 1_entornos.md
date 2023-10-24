@@ -35,6 +35,17 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
 <li><b>Fase 4 - Pruebas.</b><br>Una vez que el código ha sido creado hay que comprobar que el programa ejecute las tareas especificadas. Además, en esta fase se detectan fallas y se analiza el rendimiento del software. Tras las pruebas también se puede llevar a cabo una implementación del programa, es decir, habilitarlo para que el usuario lo utilice en los diferentes entornos sin problemas de compatibilidad.</li>
 <li><b>Fase 5 - Mantenimiento. </b><br>Tras las pruebas realizadas, y puesta en marcha del programa, hay que mantenerlo, optimizarlo, y mejorarlo para eliminar los errores detectados, adaptar nuevas funciones o requerimientos. Es decir, actualizarlo. </li>
 
-
-
 [Subir](#top)
+
+### 3.- Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
+
+<p>El modelo de desarrollo en cascada es un tipo de procedimiento lineal se caracteriza por dividirse en fases que se suceden entre sí, las cuales se ejecutan tan solo una vez a lo largo del proyecto. La fase anterior es el punto de partida para la siguiente. </p>
+<p>Las fase que se plantean en él son las siguiente:</p>
+<ol start="1">
+  <li>Requisitos del sistema y del software.</li>
+  <li>Análisis.</li>
+  <li>Diseño.</li>
+  <li>Construcción o codificación.</li>
+   <li>Pruebas.</li>
+   <li>Mantenimiento.</li>
+</ol>
