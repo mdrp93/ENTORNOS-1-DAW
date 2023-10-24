@@ -4,7 +4,7 @@ UNIDAD 1
 
 <a name="item1"></a>
 
-# Tarea 1: INTRODUCCIÓN.
+# Actividad 1: INTRODUCCIÓN.
 
 ### 1. Haz una clasificación del software.
 
