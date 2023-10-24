@@ -23,7 +23,7 @@
 * [Ciclo de vida del software](#itemud2)
 * [Modelos de desarrollo](#itemud3)
 * [Lenguajes de programación](#itemud4)
-* [Tareas de la unidad 1](#Itemud5)
+* [Actividades de la unidad](#Itemud5)
 
 <a name="itemud1"></a>
 ## 1 y 2 Introducción: Conceptos básicos
@@ -252,7 +252,7 @@ Muchos de estos lenguajes son compilados.
 [Volver a unidad 1](#item1)
 
 <a name="itemud5"></a>
-### Tareas de la unidad 1.
+### Actividades de la unidad 1.
 * [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%201_Unidad%201_entornos.md)
 * [Tarea 2: Ciclo de vida del software.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%202_unidad%201_entornos.md)
 * [Tarea 3: Ciclo de vida del software 2. Metodologías.]()
