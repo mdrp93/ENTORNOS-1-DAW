@@ -58,3 +58,31 @@ Aparte de la estructura del software escogiendo de manera adecuada las diferente
 
 ![](https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/ModeloenCascadaVentajasTabla_act2_ud1.drawio.png)
 
+[Subir](#top)
+
+### 5.- ¿Qué se entiende por verificación? ¿Y por validación?
+<p>La verificación son las pruebas que se realizan en cada paso del proceso que tienen lugar en cada etapa del ciclo de vida para asegurarse que se han cumplido los requisitos necesarios o bien para realizar las correcciones necesarias.</p>
+<p>Por otro lado la validación, se basa en las verificaciones y la documentación que se aportó en ellas. En la validación se lleva a cabo pruebas completas del proyecto y a diferencia de la verificación esta se lleva a cabo después de haber sido instalado el software.</p>
+
+[Subir](#top)
+
+### 6.- Explica cómo funciona el modelo de desarrollo mediante creación de prototipos.
+<p>El modelo de prototipos se centra en un <b>diseño rápido que representa las características principales del programa</b> que el usuario podrá utilizar. De esta manera pueden probarlo y dar su opinión sobre distintos aspectos como la usabilidad, la utilidad o el rendimiento.</p>
+<p>El prototipo se puede <b>modificar cuando sea necesario </b>y todos los resultados obtenidos de las presentaciones y pruebas se deben anotar para utilizar posteriormente como ayuda en el desarrollo del producto final.</p>
+<p>Fases del modelo de construcción de prototipos:</p>
+<ol type="1">
+  <li>Requisitos.</li>
+  <li>Modelajes y desarrollo de código.</li>
+  <li>Evaluación.</li>
+  <li>Modificación.</li>
+   <li>Documentación.</li>
+   <li>Pruebas.</li>
+</ol>
+
+<p align="center">
+   <img width="470" height="350" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/FasesModeloPrototipo_act2_ud1.png">
+
+
+
+
+
