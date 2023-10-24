@@ -252,7 +252,7 @@ Muchos de estos lenguajes son compilados.
 
 ### Tareas de la unidad 1.
 * [Tarea 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%201_Unidad%201_entornos.md)
-* [Tarea 2: Ciclo de vida del software.]()
+* [Tarea 2: Ciclo de vida del software.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%202_unidad%201_entornos.md)
 * [Tarea 3: Ciclo de vida del software 2. Metodologías.]()
 * [Tarea 4: Lenguajes de programación]()
 
