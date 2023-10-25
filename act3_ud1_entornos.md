@@ -8,9 +8,9 @@ UNIDAD 1
 
 ### 1.- ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
 
-<p align="justify"> En 2001, en el manifiesto ágil se recogen los principios en los que se basan los métodos  que estaban surgiendo como alternativa a las metodologías formales más pesadas y rígidas.</pgit statu>
+<p align="justify"> En 2001, en el manifiesto ágil se recogen los principios en los que se basan los métodos  que estaban surgiendo como alternativa a las metodologías formales más pesadas y rígidas.</p>
 
-Los cuatro principios fundamentales los definieron como:
+<p align="justify">Los cuatro principios fundamentales los definieron como:
 
 <ul>
 
@@ -18,7 +18,7 @@ Los cuatro principios fundamentales los definieron como:
 <li type="circle">Valorar más el software funcionando que la documentación exhaustiva.</li>
 <li type="circle">Valorar más la colaboración con el cliente que la negociación contractual</li>
 <li type="circle">Valorar más la respuesta ante el cambio a que seguir un plan</li>
-</ul>
+</ul></p>
 
 ### 2.- ¿Qué es una historia de usuario?
 
