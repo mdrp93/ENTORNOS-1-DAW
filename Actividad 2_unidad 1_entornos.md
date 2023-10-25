@@ -11,12 +11,12 @@ UNIDAD 1
 <p align="justify">El ciclo de vida del software o Systems Development Life Cycle son las fases que se llevan a cabo a la hora de desarrollar un software. <br>Estas fases nos permiten administrar, y  validar el proyecto, así como garantizar que cumpla con los requisitos necesarios. 
 Existen diferentes tipos de ciclos de vida, entre ellos están:</p>
 
+<p align="justify">
 <ol><li>Modelo en cascada.</li>
 <li>Modelo en V</li>
 <li>Modelo en espiral</li>
 <li>Modelo de construcción de prototipos</li>
-<li>Metodologías ágiles (o adaptativos)</li></ol>
-
+<li>Metodologías ágiles (o adaptativos)</li></ol></p>
 
 <p align="center">
    <img width="650" height="350" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/Ciclo%20de%20vida_imagen%201_act2_ud1_entornos.drawio.png">
