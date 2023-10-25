@@ -18,6 +18,7 @@ Los cuatro principios fundamentales los definieron como:
 <li type="circle">Valorar más el software funcionando que la documentación exhaustiva.</li>
 <li type="circle">Valorar más la colaboración con el cliente que la negociación contractual</li>
 <li type="circle">Valorar más la respuesta ante el cambio a que seguir un plan</li>
+</ul>
 
 ### 2.- ¿Qué es una historia de usuario?
 
