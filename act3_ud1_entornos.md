@@ -8,7 +8,7 @@ UNIDAD 1
 
 ### 1.- ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
 
-<p align="justify"> En 2001, en el manifiesto ágil se recogen los principios en los que se basan los métodos  que estaban surgiendo como alternativa a las metodologías formales más pesadas y rígidas.</p>
+<p align="justify"> En 2001, en el manifiesto ágil se recogen los principios en los que se basan los métodos  que estaban surgiendo como alternativa a las metodologías formales más pesadas y rígidas.</pgit statu>
 
 Los cuatro principios fundamentales los definieron como:
 
