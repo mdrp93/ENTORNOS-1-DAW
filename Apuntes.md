@@ -185,7 +185,7 @@ Se especifica la interrelación y funcionalidad de los elementos componentes.</p
                         <ul><li><p align="justify"><b>KANBAM (o sistema de tarjetas):</b> Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</p></li>
                         <li><p><b>SCRUM</b></p></li>
                         <li>XP (sXtreme Programing o programación extrema)</li>
-                        <li><p><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/act3_ud1_entornos.md" target="_self">Ver: Tarea 3- Unidad 1</a></p></li>
+                        <li><p><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad_3_Unidad_1_entornos.md" target="_self">Ver: Tarea 3- Unidad 1</a></p></li>
                         </ul>
                   </ul></li>
                </ul>
@@ -309,7 +309,7 @@ Muchos de estos lenguajes son compilados.
 
 * [Actividad 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%201_Unidad%201_entornos.md)
 * [Actividad 2: Ciclo de vida del software.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%202_unidad%201_entornos.md)
-* [Actividad 3: Ciclo de vida del software II. Metodologías.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/act3_ud1_entornos.md)
+* [Actividad 3: Ciclo de vida del software II. Metodologías.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad_3_Unidad_1_entornos.md)
 * [Actividad 4: Lenguajes de programación]()
 
 <p></p>
