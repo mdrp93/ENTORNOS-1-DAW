@@ -104,7 +104,7 @@ Existen diferentes tipos de ciclos de vida, entre ellos están:</p>
 
 
 <ul>
-  <li>https://evotic.es/software-a-medida/ciclo-de-vida-del-software/" target="_blank </li>
+  <li>https://evotic.es/software-a-medida/ciclo-de-vida-del-software/</li>
   <li><p>https://intelequia.com/es/blog/post/ciclo-de-vida-del-software-todo-lo-que-necesitas-saber"</li>
   <li>https://raknarrok.blogspot.com/2015/05/cap-3-software-development-life-cycle.html</li>
    <li>https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/el-modelo-en-cascada/</li>
