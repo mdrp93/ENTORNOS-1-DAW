@@ -22,7 +22,9 @@ UNIDAD 1
 
 ### 2.- ¿Qué es una historia de usuario?
 
-<p>Consulta el siguiente enlace: <a href="#blank"> https://es.wikipedia.org/wiki/Historias_de_usuario</a></p>
+
+<p><a src="https://es.wikipedia.org/wiki/Historias_de_usuario" target="_blank"></a></p>
+
 
 <p align="justify"> Se utilizan en las metodologías de desarrollo ágiles para la especificación de los requisitos.En las metodologías ágiles la descripción de las necesidades se realiza a partir de las historias de usuario (user story) que son, principalmente, lo que el cliente o el usuario quiere que se implemente; es decir, son una descripción breve, de una funcionalidad software tal y como la percibe el usuario. Estas historias deben ser escritas por los usuarios, son una forma rápida de administrar los requisitos de estos sin tener que elaborar una gran cantidad de documentación oficial y de manera más rápida y sencilla.</p>
 
@@ -36,7 +38,7 @@ UNIDAD 1
 
 ## 3.- Haz un resumen sobre qué se entiende por Lean software y qué principios lo rigen.
 
-<p>Consulta el siguiente enlace:  <a href="#blank">https://es.wikipedia.org/wiki/Lean_software_development</a></p>
+<p>Consulta el siguiente enlace:<a target=#_blank href="URL">https://es.wikipedia.org/wiki/Lean_software_development</a></p>
 
 
 <p align="justify"> El software Lean es un concepto de desarrollo que optimiza la eficiencia y la minimización del proceso en el desarrollo de un software. Está basado en el movimiento Lean Manufacturing de 1980, y ahora se ha convertido en una parte fundamental de la metodología ágil. </p>
@@ -176,6 +178,7 @@ Los requisitos indispensables para poder utilizar la metodología scrum son los 
 Puedes consultar el siguiente enlace: 
 http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
 
+<p>Consulta el siguiente enlace:<a href="#blank"> http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/</a></p>
 
 <p align="justify">La XP es una metodología de desarrollo ágil. En ella se le da máxima prioridad a las obtención de resultados . En esta metodología se divide el proyecto en fases y, en cada una, realiza un ciclo completo de análisis, diseño, desarrollo y pruebas. </p>
 <p align="justify">A diferencia de las otras, la metodología es  idónea para los proyectos cambiantes, ya que se basa en mantener una respuesta rápida a los cambios. Así como, en la comunicación que es una de sus características particulares con respecto de las otras metodologías ágiles en las que tienen unos roles definidos e interacciones repetidas a lo largo del tiempo, aquí la comunicación es constante y la retroalimentación continua cliente-desarrolladores.</p>
