@@ -22,10 +22,7 @@ UNIDAD 1
 
 ### 2.- ¿Qué es una historia de usuario?
 
-
-<p><a src="https://es.wikipedia.org/wiki/Historias_de_usuario"></a></p>
-
-![](https://es.wikipedia.org/wiki/Historias_de_usuario)
+Puedes consultar el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de_usuario
 
 <p align="justify"> Se utilizan en las metodologías de desarrollo ágiles para la especificación de los requisitos.En las metodologías ágiles la descripción de las necesidades se realiza a partir de las historias de usuario (user story) que son, principalmente, lo que el cliente o el usuario quiere que se implemente; es decir, son una descripción breve, de una funcionalidad software tal y como la percibe el usuario. Estas historias deben ser escritas por los usuarios, son una forma rápida de administrar los requisitos de estos sin tener que elaborar una gran cantidad de documentación oficial y de manera más rápida y sencilla.</p>
 
