@@ -36,7 +36,7 @@ Puedes consultar el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de
 
 ## 3.- Haz un resumen sobre qué se entiende por Lean software y qué principios lo rigen.
 
-<p>Consulta el siguiente enlace:<a target=#_blank href="URL">https://es.wikipedia.org/wiki/Lean_software_development</a></p>
+Consulta el siguiente enlace:https://es.wikipedia.org/wiki/Lean_software_development
 
 
 <p align="justify"> El software Lean es un concepto de desarrollo que optimiza la eficiencia y la minimización del proceso en el desarrollo de un software. Está basado en el movimiento Lean Manufacturing de 1980, y ahora se ha convertido en una parte fundamental de la metodología ágil. </p>
@@ -60,10 +60,10 @@ Puedes consultar el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de
 
 <p>Puedes consultar los siguientes enlaces:</p>
 <ol type="1">
-<li> <p><a href="#blank">https://leankit.com/learn/kanban/kanban-board/ </a></p></li>
-<li> <p><a href="#blank">https://trello.com/es </a></p></li>
-<li> <p><a href="#blank">https://taiga.io/</a></p></li>
-<li> <p><a href="#blank">https://kanbantool.com/es/ </a></p></li>
+<li> <p>https://leankit.com/learn/kanban/kanban-board/</p></li>
+<li> <p>https://trello.com/es </p></li>
+<li> <p>https://taiga.io/</p></li>
+<li> <p>https://kanbantool.com/es/ </p></li>
 </ol>
 
 <p align="justify">Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</p>
@@ -74,7 +74,7 @@ Puedes consultar el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de
 
 ## 5. KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. 
 
-<p>Puedes consultar el siguiente enlace: <a href="#blank"> https://es.atlassian.com/agile/kanban</a></p>
+Puedes consultar el siguiente enlace: https://es.atlassian.com/agile/kanban
 
 <p align="justify">El sistema KANBAN fue desarrollado por un ingeniero japonés de Toyota a finales de 1940. Es un sistema de flujo de trabajo basado en la representación gráfica de columnas de trabajo, un tablero básico podría ser: terminado, en proceso, por hacer. Las tareas avanzan a través de las columnas hasta estar finalizadas.</p>
 <p align="justify">Por otra parte la metodología Scrum a diferencia de Kanban, scrum es un marco completo para administrar equipos.</p>
@@ -97,8 +97,8 @@ Puedes consultar el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de
 
 <p>Consulta los siguientes enlaces:</p>
 <ol type="1">
-<li> <p><a href="#blank">https://proyectosagiles.org/que-es-scrum/ </a></p></li>
-<li> <p><a href="#blank"> https://proyectosagiles.org/como-funciona-scrum/ </a></p></li>
+<li> https://proyectosagiles.org/que-es-scrum/ </li>
+<li> https://proyectosagiles.org/como-funciona-scrum/ </li>
 </ol>
 
 <p align="justify">Scrum es un metodología de flujo de trabajo, en el los equipos se organizan las acciones que se realizan en cada Sprint, estos se realizan de manera consecutiva y suelen durar de 1 a 4 semanas cada uno. Se llevan a cabo reuniones diarias, y reuniones al final de cada sprint para presentar los resultados.</p>
@@ -128,7 +128,7 @@ Puedes consultar el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de
 ## 9. SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. 
 
 
-<p>Consulta el siguiente enlace:<a href="#blank"> https://proyectosagiles.org/requisitos-de-scrum/</a></p>
+Consulta el siguiente enlace: https://proyectosagiles.org/requisitos-de-scrum/
 
 Los requisitos indispensables para poder utilizar la metodología scrum son los siguientes:
 
@@ -158,8 +158,6 @@ Los requisitos indispensables para poder utilizar la metodología scrum son los 
 <p>Los cinco valores de la Programación Extrema son la comunicación, el respeto, el coraje, simplicidad, retroalimentación. Estos valores no son un simple ardid de mercadeo sino que realmente son parte integral de la metodología.<br>Los valores XP representan un excelente punto de partida para entender cómo funcionan las metodologías ágiles. </p>
 
 <p align="justify"><b>La comunicación</b> debe ser fluida y diaria cara a cara, es la forma más eficaz para conseguir la <b>mejor solución a lo que se plantee.</b></p>
-
-
 <p align="justify"><b>El respeto </b>tanto por el trabajo como por los demás y por uno mismo. Así como respetar tu propio trabajo por medio del compromiso con una alta calidad y buscando la manera de que el proyecto esté lo mejor posible. Apreciar a los demás miembros del equipo y su trabajo. </p>
 <p align="justify"><b>El coraje:</b> se dirá la verdad. Esto quiere decir que no se pondrán excusas del avance. Adaptarse a los cambios. Diseñar para hoy y no dejarlo para mañana. Inspeccionar el código de manera constante y modificarlo tanto como sea necesario. </p>
 <p align="justify"><b>La simplicidad </b>se basa en desarrollar lo que sea requerido y no más. En XP se comienza desarrollando las soluciones más sencillas necesarias para solucionar los problemas que se están viendo en ese momento.</p>
@@ -173,10 +171,7 @@ Los requisitos indispensables para poder utilizar la metodología scrum son los 
 
 ## 11. XP: ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas. 
 
-Puedes consultar el siguiente enlace: 
-http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
-
-<p>Consulta el siguiente enlace:<a href="#blank"> http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/</a></p>
+Puedes consultar el siguiente enlace: http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
 
 <p align="justify">La XP es una metodología de desarrollo ágil. En ella se le da máxima prioridad a las obtención de resultados . En esta metodología se divide el proyecto en fases y, en cada una, realiza un ciclo completo de análisis, diseño, desarrollo y pruebas. </p>
 <p align="justify">A diferencia de las otras, la metodología es  idónea para los proyectos cambiantes, ya que se basa en mantener una respuesta rápida a los cambios. Así como, en la comunicación que es una de sus características particulares con respecto de las otras metodologías ágiles en las que tienen unos roles definidos e interacciones repetidas a lo largo del tiempo, aquí la comunicación es constante y la retroalimentación continua cliente-desarrolladores.</p>
