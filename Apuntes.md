@@ -36,7 +36,7 @@ Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.</p>
 <li>En el <b>software de aplicación</b> encontramos suite ofimática, navegadores, editor de imagenes o texto...</li>
 <li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li></ul></li></p>
 
-<p align="left"><img width="360" height="200" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/software_apuntes.png"></p>
+<p align="right"><img width="360" height="200" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/software_apuntes.png"></p>
 
 <p align="justify">En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.</p>
 
@@ -49,7 +49,7 @@ Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.</p>
  <li><b>CPU ó _Central processing Unit_:</b>lee y ejecuta las instrucciones que se han almacenado en la RAM, y coge analiza los datos necesarios para llevar a cabo las instrucciones.</li>
  <li><b>Disco duro:</b> almacena de manera permanente los arcchivos ejecutables y los archivos de datos. </li></ul></p>
 
-<p align="center"><img width="360" height="200" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/hardware.png">
+<p align="right"><img width="360" height="200" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/hardware.png">
 
 <p align="justify">Hay diferentes tipos de códigos (conceptos):</p>
 <ul>
