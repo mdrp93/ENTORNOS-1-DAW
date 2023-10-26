@@ -22,7 +22,7 @@ UNIDAD 1
 
 ### 2.- ¿Qué es una historia de usuario?
 
-Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de_usuario
+<p>Consulta el siguiente enlace: <a href="#blank"> https://es.wikipedia.org/wiki/Historias_de_usuario</a></p>
 
 <p align="justify"> Se utilizan en las metodologías de desarrollo ágiles para la especificación de los requisitos.En las metodologías ágiles la descripción de las necesidades se realiza a partir de las historias de usuario (user story) que son, principalmente, lo que el cliente o el usuario quiere que se implemente; es decir, son una descripción breve, de una funcionalidad software tal y como la percibe el usuario. Estas historias deben ser escritas por los usuarios, son una forma rápida de administrar los requisitos de estos sin tener que elaborar una gran cantidad de documentación oficial y de manera más rápida y sencilla.</p>
 
@@ -36,7 +36,8 @@ Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de_usuario
 
 ## 3.- Haz un resumen sobre qué se entiende por Lean software y qué principios lo rigen.
 
-Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Lean_software_development
+<p>Consulta el siguiente enlace:  <a href="#blank">https://es.wikipedia.org/wiki/Lean_software_development</a></p>
+
 
 <p align="justify"> El software Lean es un concepto de desarrollo que optimiza la eficiencia y la minimización del proceso en el desarrollo de un software. Está basado en el movimiento Lean Manufacturing de 1980, y ahora se ha convertido en una parte fundamental de la metodología ágil. </p>
 <p align="justify"> En cuanto a los principios fundamentales de este tipo de desarrollo son:</p>
@@ -59,10 +60,10 @@ Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Lean_software_develo
 
 <p>Puedes consultar los siguientes enlaces:</p>
 <ol type="1">
-<li> <p><a href="#top">https://leankit.com/learn/kanban/kanban-board/ </a></li>
-<li> <p><a href="#top">https://trello.com/es </a></li>
-<li> <p><a href="#top">https://taiga.io/</a></li>
-<li> <p><a href="#top">https://kanbantool.com/es/ </a></li>
+<li> <p><a href="#blank">https://leankit.com/learn/kanban/kanban-board/ </a></p></li>
+<li> <p><a href="#blank">https://trello.com/es </a></p></li>
+<li> <p><a href="#blank">https://taiga.io/</a></p></li>
+<li> <p><a href="#blank">https://kanbantool.com/es/ </a></p></li>
 </ol>
 
 <p align="justify">Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</p>
@@ -73,7 +74,7 @@ Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Lean_software_develo
 
 ## 5. KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. 
 
-Puedes consultar el siguiente enlace: https://es.atlassian.com/agile/kanban
+<p>Puedes consultar el siguiente enlace: <a href="#blank"> https://es.atlassian.com/agile/kanban</a></p>
 
 <p align="justify">El sistema KANBAN fue desarrollado por un ingeniero japonés de Toyota a finales de 1940. Es un sistema de flujo de trabajo basado en la representación gráfica de columnas de trabajo, un tablero básico podría ser: terminado, en proceso, por hacer. Las tareas avanzan a través de las columnas hasta estar finalizadas.</p>
 <p align="justify">Por otra parte la metodología Scrum a diferencia de Kanban, scrum es un marco completo para administrar equipos.</p>
@@ -96,8 +97,8 @@ Puedes consultar el siguiente enlace: https://es.atlassian.com/agile/kanban
 
 <p>Consulta los siguientes enlaces:</p>
 <ol type="1">
-<li> <p><a href="#top">https://proyectosagiles.org/que-es-scrum/ </a></li>
-<li> <p><a href="#top"> https://proyectosagiles.org/como-funciona-scrum/ </a></li>
+<li> <p><a href="#blank">https://proyectosagiles.org/que-es-scrum/ </a></p></li>
+<li> <p><a href="#blank"> https://proyectosagiles.org/como-funciona-scrum/ </a></p></li>
 </ol>
 
 <p align="justify">Scrum es un metodología de flujo de trabajo, en el los equipos se organizan las acciones que se realizan en cada Sprint, estos se realizan de manera consecutiva y suelen durar de 1 a 4 semanas cada uno. Se llevan a cabo reuniones diarias, y reuniones al final de cada sprint para presentar los resultados.</p>
@@ -126,7 +127,8 @@ Puedes consultar el siguiente enlace: https://es.atlassian.com/agile/kanban
 
 ## 9. SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. 
 
-Consulta el siguiente enlace: https://proyectosagiles.org/requisitos-de-scrum/
+
+<p>Consulta el siguiente enlace:<a href="#blank"> https://proyectosagiles.org/requisitos-de-scrum/</a></p>
 
 Los requisitos indispensables para poder utilizar la metodología scrum son los siguientes:
 
