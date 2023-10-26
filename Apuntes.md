@@ -2,7 +2,7 @@
  
 # Apuntes de Entornos de Desarrollo
 
-<p align="left">
+<p align="center">
    <img width="1000" height="450" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/entornos-de-desarrollo-2.jpg">
                                                                                                                   
 <p align="left">
@@ -36,7 +36,7 @@ Existen tres tipos de software: de sistema, de aplicación, y de desarrollo.</p>
 <li>En el <b>software de aplicación</b> encontramos suite ofimática, navegadores, editor de imagenes o texto...</li>
 <li>Y en el <b>software de desarrollo</b>encontramos editores, compiladores, interpretes..etc</li></ul></li></p>
 
-<p align="center"><img width="360" height="200" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/software_apuntes.png"></p>
+<p align="left"><img width="360" height="200" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/software_apuntes.png"></p>
 
 <p align="justify">En cuanto al hardware tenemos disco duro, memoria RAM, CPU, dispositivos de entrada y salida.</p>
 
