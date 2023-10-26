@@ -239,11 +239,9 @@ La compilación o interpretaci compilación se lleva a cabo en dos fases:
 
 ### JAVA:
 
-El odigo fuente de JAVA se compila y se obtiene un código binario intermedio : bytecode.
-Este <b>bytecode</b> es transparente al desarrollador independientemente del micro en el que se ejecute el código. 
-Se hacen cosas muy generales al ser para todos los microprocesadores. 
-Para poder ejecutar este bytecode necesitas tener instalada la máquina virtual propia para el microprocesador que corresponda. 
-El lenguaje de JAVA es un lenguaje orientado a objetos. 
+<p align="justify">El odigo fuente de JAVA se compila y se obtiene un código binario intermedio : bytecode.</p>
+<p align="justify">Este <b>bytecode</b> es transparente al desarrollador independientemente del micro en el que se ejecute el código.<br>Se hacen cosas muy generales al ser para todos los microprocesadores. </p>
+<p align="justify">Para poder ejecutar este bytecode necesitas tener instalada la máquina virtual propia para el microprocesador que corresponda. El lenguaje de JAVA es un lenguaje orientado a objetos. </p>
 
 **Ventajas:**
  - Es estructurado
