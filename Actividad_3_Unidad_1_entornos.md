@@ -151,13 +151,14 @@ Los requisitos indispensables para poder utilizar la metodología scrum son los 
 ## 10. XP: Explica los 5 valores de la Programación Extrema.
 
 
-<div>
-  <img class="aside" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/valores_xp_act3_ud1.png">
-  <aside><p>Los cinco valores de la Programación Extrema son la comunicación, el respeto, el coraje, simplicidad, retroalimentación. Estos valores no son un simple ardid de mercadeo sino que realmente son parte integral de la metodología.<br>Los valores XP representan un excelente punto de partida para entender cómo funcionan las metodologías ágiles. </p> 
+<p align="center">
+  <img width="300" height="400" src=" https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/valores_xp_act3_ud1.png"></p>
+
+
+<p>Los cinco valores de la Programación Extrema son la comunicación, el respeto, el coraje, simplicidad, retroalimentación. Estos valores no son un simple ardid de mercadeo sino que realmente son parte integral de la metodología.<br>Los valores XP representan un excelente punto de partida para entender cómo funcionan las metodologías ágiles. </p>
+
 <p align="justify"><b>La comunicación</b> debe ser fluida y diaria cara a cara, es la forma más eficaz para conseguir la <b>mejor solución a lo que se plantee.</b></p>
-</aside>
-  <div class="reset"></div>
-</div>
+
 
 <p align="justify"><b>El respeto </b>tanto por el trabajo como por los demás y por uno mismo. Así como respetar tu propio trabajo por medio del compromiso con una alta calidad y buscando la manera de que el proyecto esté lo mejor posible. Apreciar a los demás miembros del equipo y su trabajo. </p>
 <p align="justify"><b>El coraje:</b> se dirá la verdad. Esto quiere decir que no se pondrán excusas del avance. Adaptarse a los cambios. Diseñar para hoy y no dejarlo para mañana. Inspeccionar el código de manera constante y modificarlo tanto como sea necesario. </p>
