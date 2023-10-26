@@ -150,10 +150,8 @@ Los requisitos indispensables para poder utilizar la metodología scrum son los 
 
 ## 10. XP: Explica los 5 valores de la Programación Extrema.
 
-
 <p align="center">
   <img width="300" height="400" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/valores_xp_act3_ud1.png"></p>
-
 
 <p>Los cinco valores de la Programación Extrema son la comunicación, el respeto, el coraje, simplicidad, retroalimentación. Estos valores no son un simple ardid de mercadeo sino que realmente son parte integral de la metodología.<br>Los valores XP representan un excelente punto de partida para entender cómo funcionan las metodologías ágiles. </p>
 
