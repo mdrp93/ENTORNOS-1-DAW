@@ -305,10 +305,10 @@ Muchos de estos lenguajes son compilados.
 
 ### Actividades de la unidad 1.
 
-* [Actividad 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%201_Unidad%201_entornos.md)
-* [Actividad 2: Ciclo de vida del software.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad%202_unidad%201_entornos.md)
+* [Actividad 1: Introducción.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad_1_unidad_1_entornos.md)
+* [Actividad 2: Ciclo de vida del software.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad_2_unidad_1_entornos.md)
 * [Actividad 3: Ciclo de vida del software II. Metodologías.](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad_3_Unidad_1_entornos.md)
-* [Actividad 4: Lenguajes de programación]()
+* [Actividad 4: Lenguajes de programación](https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Actividad_4_unidad_1_entornos.md)
 
 <p></p>
 <p></p>
