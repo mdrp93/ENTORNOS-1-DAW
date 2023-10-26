@@ -109,7 +109,7 @@ Existen diferentes tipos de ciclos de vida, entre ellos están:</p>
   <li><p><a href="https://raknarrok.blogspot.com/2015/05/cap-3-software-development-life-cycle.html" target="_blank"></a></p></li>
    <li><p><a href="https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/el-modelo-en-cascada/" target="_blank"></a></p></li>
    <li> <p><a href="https://www.emerson.com/documents/automation/training-sis-203-verification-validation-es-es-41624.pdf" target="_blank"></a></p></li>
-   <li> <p><a href="https://es.ryte.com/wiki/Modelo_en_Espiral#Informaci.C3.B3n_general" target="_blank"></a></p></li>
+   <li><p><a href="https://es.ryte.com/wiki/Modelo_en_Espiral#Informaci.C3.B3n_general" target="_blank"></a></p></li>
 </ul>
 
 
