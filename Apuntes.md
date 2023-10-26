@@ -2,7 +2,7 @@
  
 # Apuntes de Entornos de Desarrollo
 
-<p align="center">
+<p align="left">
    <img width="1000" height="450" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/entornos-de-desarrollo-2.jpg">
                                                                                                                   
 <p align="left">
