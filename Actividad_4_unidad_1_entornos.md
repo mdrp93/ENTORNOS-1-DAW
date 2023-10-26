@@ -46,12 +46,12 @@ UNIDAD 1
 
 <p align="justify">Dos ejemplos de lenguajes compilados: <b>Erlang y C + +. </b></p>
 <p align="center">
-  <img width="650" height="310" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/lenguajesComp_act4_ud1.png"></p>
+  <img width="650" height="250" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/lenguajesComp_act4_ud1.png"></p>
 
 <p align="justify">Dos ejemplos de lenguajes interpretados: <b>JAVA y Python.</b<></p>
 
 <p align="center">
-  <img width="650" height="310" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/LenguajesInterp_act4_ud1.png"></p>
+  <img width="650" height="250" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/LenguajesInterp_act4_ud1.png"></p>
 
 [Subir](#top)
 

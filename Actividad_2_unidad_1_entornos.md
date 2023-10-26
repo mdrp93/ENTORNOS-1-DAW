@@ -104,12 +104,12 @@ Existen diferentes tipos de ciclos de vida, entre ellos están:</p>
 
 
 <ul>
-  <li><p><a href="https://evotic.es/software-a-medida/ciclo-de-vida-del-software/" target="_blank"></a></p></li>
-  <li><p><a href="https://intelequia.com/es/blog/post/ciclo-de-vida-del-software-todo-lo-que-necesitas-saber" target="_blank"></a></p></li>
-  <li><p><a href="https://raknarrok.blogspot.com/2015/05/cap-3-software-development-life-cycle.html" target="_blank"></a></p></li>
-   <li><p><a href="https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/el-modelo-en-cascada/" target="_blank"></a></p></li>
-   <li> <p><a href="https://www.emerson.com/documents/automation/training-sis-203-verification-validation-es-es-41624.pdf" target="_blank"></a></p></li>
-   <li><p><a href="https://es.ryte.com/wiki/Modelo_en_Espiral#Informaci.C3.B3n_general" target="_blank"></a></p></li>
+  <li>https://evotic.es/software-a-medida/ciclo-de-vida-del-software/" target="_blank </li>
+  <li><p>https://intelequia.com/es/blog/post/ciclo-de-vida-del-software-todo-lo-que-necesitas-saber"</li>
+  <li>https://raknarrok.blogspot.com/2015/05/cap-3-software-development-life-cycle.html</li>
+   <li>https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/el-modelo-en-cascada/</li>
+   <li>https://www.emerson.com/documents/automation/training-sis-203-verification-validation-es-es-41624.pdf</li>
+   <li>https://es.ryte.com/wiki/Modelo_en_Espiral#Informaci.C3.B3n_general</li>
 </ul>
 
 
