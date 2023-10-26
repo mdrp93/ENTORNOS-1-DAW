@@ -51,10 +51,7 @@ Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Lean_software_develo
 <li><p align="justify"><b>Optimizar o ver el conjunto.</b> Los defectos en el software tienden a acumularse durante en cada parte del proceso, cuanto más grande es el sistema más defectos se acumulan y mayor es la importancia de las relaciones entre los diferentes participantes, con el fin de producir una buena interacción entre los componentes del sistema.</p></li>
 </ul>
 
-<p align="center">
-  <img width="700" height="300" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/principios_act3_ud1.png
-">
-</p>
+<p align="center"><img width="700" height="300" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/principios_act3_ud1.png"></p>
 
 [Subir](#top)
 
@@ -70,9 +67,7 @@ Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Lean_software_develo
 
 <p align="justify">Un tablero KANBAN es una herramienta de gestión de proyectos basada en un sistema de visualización del trabajo para generar claridad, alineación,y enfoque de los objetivos clave a seguir.</p>
 
-<p align="center">
-  <img width="682" height="425" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/KANBAN_VENT_INC_ud1_act3.png
-"></p>
+<p align="center"><img width="682" height="425" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/KANBAN_VENT_INC_ud1_act3.png"></p>
 
 [Subir](#top)
 
@@ -157,7 +152,7 @@ Los requisitos indispensables para poder utilizar la metodología scrum son los 
 
 
 <div>
-  <img class="left" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/valores_xp_act3_ud1.png">
+  <img class="aside" src="https://github.com/mdrp93/IMAGENES_ENTORNOS/blob/main/valores_xp_act3_ud1.png">
   <aside><p>Los cinco valores de la Programación Extrema son la comunicación, el respeto, el coraje, simplicidad, retroalimentación. Estos valores no son un simple ardid de mercadeo sino que realmente son parte integral de la metodología.<br>Los valores XP representan un excelente punto de partida para entender cómo funcionan las metodologías ágiles. </p> 
 <p align="justify"><b>La comunicación</b> debe ser fluida y diaria cara a cara, es la forma más eficaz para conseguir la <b>mejor solución a lo que se plantee.</b></p>
 </aside>
