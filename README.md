@@ -29,6 +29,10 @@ Herramientas utilizadas:
 ## Wiki 📖
 En construcción.
 
-## Autor ✒️
-* **Maria Diaz-Rozas Pantoja** - [María Díaz RP](https://github.com/mdrp93?tab=overview&from=2023-09-01&to=2023-09-30)
+## Origen y Autor ✒️
 
+<p>Asignatura: LENGUAJE DE MARCAS<br>
+Curso: 1º<br>
+Ciclo: Desarrollo de aplicaciones web<br>
+año: 2023<br>
+Autor@: <b>Maria Diaz-Rozas Pantoja</b><a href="https://github.com/mdrp93/ENTORNOS-1-DAW/blob/main/Apuntes.md#unidad-1"> --> Ir al perfil de GitHub</a>
