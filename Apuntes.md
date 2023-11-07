@@ -321,4 +321,26 @@ Muchos de estos lenguajes son compilados.
 
 ## Unidad 2
 
-en construcción...
+## Índice unidad 
+
+* [](#item1ud2)
+* 
+
+<a name="item1ud2"></a>
+### HERRAMIENTAS BÁSICAS
+#### BIBLIOTECAS -LIBRERIAS
+<p>Cada libreria esta compuesta por varios archivos objeto.</p>
+Parte de una biblioteca: 
+<ul>
+ <li>especificaciones</li>
+ <li>Implementacion: suele ser privada, pero podrian darte acceso si es de codigo abierto. </li>
+</ul>
+<p>API = Interfaz de Programación de aplicaciones. </p>
+#### HERRAMIENTAS JAVA
+#### BUILD
+#### ARCHIVOS DE CONSTRUCCIÓN
+Entornos integrados de desarrollo: 
+- VISUALCODE
+- ECLIPSE
+- etc...
+
